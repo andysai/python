@@ -49,6 +49,51 @@
 7.if
     if 条件:
     	结果
+    #第一种：
+    if 4 > 5 :
+    	print('我请你喝酒')
+    print('喝什么酒')
+
+    #第二种：
+    if 4 > 5:
+    	print('我请你喝酒')
+    else:
+    	print('喝什么酒')
+
+    #多选：
+    num = input('请输入您猜的数字：')
+    if num == '1':
+    	print('一起抽烟')
+    elif num == '2':
+    	print('一起喝酒')
+    elif num == '3':
+    	print('新开了一家，走看看')
+    else:
+    	print('你猜错了.....')
+
+    score = int(input("输入分数:"))
+    if score > 100:
+        print("我擦，最高分才100...")
+    elif score >= 90:
+        print("A")
+    elif score >= 60:
+        print("C")
+    elif score >= 80:
+        print("B")
+    elif score >= 40:
+        print("D")
+    else:
+        print("太笨了...E")
+
+    name = input('请输入名字：')
+    age = input('请输入年龄：')
+    if name == '小二':
+    	if age == '18':
+    		print(666)
+    	else:
+    		print(333)
+    else:
+    	print('错了....')
 
 8.while
     while 条件:
@@ -57,3 +102,53 @@
     	终止循环：1，改变条件，使其不成立。
     			  2,break
     	continue
+
+    	#while
+
+    print('111')
+    while True:
+    	print('我们不一样')
+    	print('在人间')
+    	print('痒')
+    print('222')
+
+    #从1--100
+    count = 1
+    flag = True
+    #标志位
+    while flag:
+    	print(count)
+    	count = count + 1
+    	if count > 100 :
+    		flag = False
+
+
+    count = 1
+    while count <= 100:
+    	print(count)
+    	count = count + 1
+
+
+    count = 1
+    sum = 0
+
+    while count <= 100:
+    	sum = sum + count
+    	count = count + 1
+
+    print(sum)
+
+    #break
+    print('11')
+    while True:
+    	print('222')
+    	print(333)
+    	break
+    	print(444)
+    print('abc')
+
+    count = 1
+    while True:
+    	print(count)
+    	count = count + 1
+    	if count > 100:break
