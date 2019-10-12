@@ -25,7 +25,7 @@ def Check():
             print("感谢使用！\n")
             break
         kd_num = input("请输入快递单号：")
-        url = "https://www.kuaidi100.com/?from=openv"
+        url = "https://www.kuaidi100.com/?from=openv" % {kd_dict[choose], kd_num}
         response = urllib.request.urlopen(url)
         html = response.read().decode('utf-8')
         target = json.loads(html)
