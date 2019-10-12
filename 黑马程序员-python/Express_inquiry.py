@@ -25,7 +25,7 @@ def Check():
             print("感谢使用！\n")
             break
         kd_num = input("请输入快递单号：")
-        url = "https://www.kuaidi100.com/?from=openv" % {kd_dict[choose], kd_num}
+        url = "http://www.kuaidi100.com/query?type=%s&postid=%s" % {kd_dict[choose], kd_num}
         response = urllib.request.urlopen(url)
         html = response.read().decode('utf-8')
         target = json.loads(html)
@@ -35,11 +35,11 @@ def Check():
             data_len = len(data)
             for i in range(data_len) :
                 print("\n时间：" + data[i]['time'])
-                print("\n状态：" + data[i]['context'] + "")
-            print("感谢使用\n")
+                print("状态：" + data[i]['context'] + "")
+            print("\n感谢使用\n")
             break
         else :
-            print("输入有误，请重新输入！")
+            print("输入有误，请重新输入！\n")
 
 if __name__ == '__main__' :
     while True :
