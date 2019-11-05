@@ -1,6 +1,7 @@
-dict = {'日本':'东京','英国':'伦敦','法国':'巴黎'}
-#for key,value in dict.items():
-#    print(key,value)
-
-for i in dict.values():
-    print(i)
+# 编写4个表达式，它们分别使用加法、减法、乘法和除法运算，但结果都是数字8，为使用print语句来显示结果，
+# 务必将这些表达式用括号括起来，也就是说，你应该编写4行类似于下面的代码：
+# Print(5+3)
+print(5+3)
+print(14-6)
+print(4*2)
+print(int(8/1))
