@@ -23,10 +23,8 @@ class Say_Hello :
         return mess
 
     def Say_Wish(self):
-        mess1 = '{}的愿望是：\n'.format(self.MyName)
-        i = 1
-        while i < 4 :
-            return mess1 + self.wish*3
+        mess1 = '{}的愿望是：\n{}'.format(self.MyName,self.wish*3)
+        return mess1
 
 test = Say_Hello('瓦力','sai','学会 Python 基础！\n')
 print(test.Hello())
