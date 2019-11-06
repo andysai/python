@@ -28,4 +28,18 @@ hdt.append('ww')
 for new1 in hdt:
     print('你好，{}；请赏脸参加晚上的晚餐，谢谢！'.format(new1))
 
-
+#（4）缩减名单
+#4.1 在完成练习（3）的基础上，使用pop不断地删除名单中的嘉宾，直到只有两位为止，并且打印出删除的成员
+#4.2 使用del()将最后两位嘉宾从名单中删除，让名单变成空的
+while True:
+    del1 = hdt.pop()
+    print('{}已经被移除'.format(del1))
+    if len(hdt) == 2:
+        break
+print('剩余的宾客有：', hdt)
+while True:
+    if len(hdt) != 0 :
+        del hdt[0]
+    else :
+        break
+print(hdt)
