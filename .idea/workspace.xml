@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/风变编程/python基础-山腰班/fb_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python基础-山腰班/fb_15.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山腰班/fb_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -208,7 +209,7 @@
       <workItem from="1573004929020" duration="8586000" />
       <workItem from="1573027328509" duration="1779000" />
       <workItem from="1573037814151" duration="5780000" />
-      <workItem from="1573086007652" duration="3962000" />
+      <workItem from="1573086007652" duration="5333000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <created>1570848565134</created>
@@ -392,7 +393,14 @@
       <option name="project" value="LOCAL" />
       <updated>1573090898569</updated>
     </task>
-    <option name="localTasksCounter" value="27" />
+    <task id="LOCAL-00027" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1573095589499</created>
+      <option name="number" value="00027" />
+      <option name="presentableId" value="LOCAL-00027" />
+      <option name="project" value="LOCAL" />
+      <updated>1573095589499</updated>
+    </task>
+    <option name="localTasksCounter" value="28" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
