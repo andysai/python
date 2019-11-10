@@ -7,10 +7,13 @@ class Teacher:
 class Father:
     face = 'sweet'
     parenthood = 'dad'
+
 class Student(Teacher):
     pass
+
 class Son(Father):
     face = 'gentle'
+
 time3 = Student()
 time4 = Son()
 print(time3.face)

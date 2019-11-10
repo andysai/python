@@ -23,3 +23,37 @@ restaurant2 = Restaurant('king','烧鸭饭')
 print(restaurant2.describe_restaurant())
 restaurant3 = Restaurant('sss','蜜汁叉烧烤肉饭')
 print(restaurant3.describe_restaurant())
+
+#9-3 用户：创建一个名为User的类，其中包含属性first_name和last_name，还有用户简介通常会存储其他几个属性。
+# 在类User中定义一个名为describe——user()的方法，
+# 它打印用户信息摘要；再定义一个名为greet_user()的方法，它向用户发出个性化的问候。
+# 创建多个表示不同用户的实例，并对每个实例都调用上述的两种方法。
+class User:
+    def __init__(self, first_name, last_name, age, food, interest):
+        self.first_name = first_name
+        self.last_name = last_name
+        self.age = age
+        self.food = food
+        self.interest = interest
+
+    def describe_user(self):
+        return '你好，我的名字叫%s,年龄是:%d,喜欢的食物是:%s,兴趣爱好是:%s' % ((self.first_name+self.last_name),self.age,self.food,self.interest)
+
+    def greet_user(self):
+        return '你好，%s\n' % (self.first_name+self.last_name)
+
+user1 = User('sai','andy',18,'egg','sing')
+print(user1.describe_user())
+print(user1.greet_user())
+user2 = User('q','ss',22,'chicker','dance')
+print(user2.describe_user())
+print(user2.greet_user())
+user3 = User('green','king',25,'beaf','chinese')
+print(user3.describe_user())
+print(user3.greet_user())
+
+# 9-4 就餐人数：在为9-1编写的程序中，添加一个名为number_served的属性，并将其默认值设置为0。
+# 根据这个类创建一个名为restaurant的实例；打印有多少人在这家餐馆就餐过，然后修改这个值并再次打印它。
+# 添加一个名为set_number_served()的方法，它让你能够设置就餐人数。调用这个方法并向它传递一个值，然后再次打印这个值。
+# 添加一个名为increment_served()的方法，它让你能够将就餐人数递增。
+# 调用这个方法并向它传递一这样的值：你认为这家餐馆每天可能接待的就餐人数。
