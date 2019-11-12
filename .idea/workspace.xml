@@ -2,8 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/sources.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -18,7 +16,7 @@
         <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/sources.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
-              <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+              <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -26,8 +24,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_03.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="270">
-              <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+            <state relative-caret-position="459">
+              <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
             </state>
           </provider>
         </entry>
@@ -67,8 +65,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1035" />
-    <option name="y" value="240" />
+    <option name="x" value="831" />
+    <option name="y" value="170" />
     <option name="width" value="1479" />
     <option name="height" value="947" />
   </component>
@@ -81,7 +79,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -104,6 +101,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -295,7 +293,10 @@
       <workItem from="1573130521812" duration="1845000" />
       <workItem from="1573309161966" duration="797000" />
       <workItem from="1573344140941" duration="2488000" />
-      <workItem from="1573568051653" duration="1797000" />
+      <workItem from="1573568051653" duration="2100000" />
+      <workItem from="1573575899068" duration="61000" />
+      <workItem from="1573575992595" duration="96000" />
+      <workItem from="1573576138786" duration="111000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <created>1570848565134</created>
@@ -528,22 +529,29 @@
       <option name="project" value="LOCAL" />
       <updated>1573570217248</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1573570821935</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1573570821935</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="26577000" />
+    <option name="totallyTimeSpent" value="27148000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1035" y="240" width="1479" height="947" extended-state="0" />
+    <frame x="831" y="170" width="1479" height="947" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15785764" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16420014" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -788,17 +796,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/winner.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" lean-forward="true" selection-start-line="4" selection-end-line="4" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/sources.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
-          <caret line="3" column="13" lean-forward="true" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        <state relative-caret-position="459">
+          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
         </state>
       </provider>
     </entry>
