@@ -14,3 +14,18 @@ class Restaurant:
     def open_restaurant(self):
         return '餐馆正在营业'
 
+class IceCreamStand(Restaurant):
+    def __init__(self, restaurant_name, cuisine_type):
+        Restaurant.__init__(self, restaurant_name, cuisine_type)
+        self.flavors = ['香草', '巧克力', '草莓', '哈密瓜']
+
+    def show_icecream_flavors(self):
+        print('冰淇淋的口味有:')
+        for i in self.flavors:
+            print(i)
+
+kouwei = IceCreamStand('sai','noodles')
+kouwei.show_icecream_flavors()
+
+# icecreamstand = IceCreamStand('love', 'icecream')
+# icecreamstand.show_icecream_flavors()
