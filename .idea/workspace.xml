@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/story.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_csv-01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -14,7 +12,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/story.py">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,11 +31,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main1.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="81">
               <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_csv-01.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="108">
+              <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
             </state>
           </provider>
         </entry>
@@ -78,12 +85,13 @@
         <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/story.py" />
         <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main.py" />
         <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main1.py" />
+        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_csv-01.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="1024" />
-    <option name="y" value="353" />
+    <option name="x" value="1103" />
+    <option name="y" value="293" />
     <option name="width" value="1479" />
     <option name="height" value="947" />
   </component>
@@ -163,29 +171,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.main1">
-    <configuration name="fb_01" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python基础-山顶班" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fb_csv-01">
     <configuration name="fb_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -222,6 +208,28 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_03.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fb_csv-01" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_csv-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -276,11 +284,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fb_csv-01" />
         <item itemvalue="Python.main1" />
         <item itemvalue="Python.main" />
         <item itemvalue="Python.fb_03" />
         <item itemvalue="Python.fb_02" />
-        <item itemvalue="Python.fb_01" />
       </list>
     </recent_temporary>
   </component>
@@ -328,6 +336,8 @@
       <workItem from="1573575992595" duration="96000" />
       <workItem from="1573576138786" duration="111000" />
       <workItem from="1573824967194" duration="1699000" />
+      <workItem from="1574028295508" duration="1612000" />
+      <workItem from="1574248033718" duration="758000" />
     </task>
     <task id="LOCAL-00001" summary="study">
       <created>1570848565134</created>
@@ -574,21 +584,29 @@
       <option name="project" value="LOCAL" />
       <updated>1573646995096</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1574028315476</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1574028315476</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="29823000" />
+    <option name="totallyTimeSpent" value="32193000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1024" y="353" width="1479" height="947" extended-state="0" />
+    <frame x="1338" y="340" width="1479" height="947" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16842847" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1726568" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.33333334" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.33333334" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.399754" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -669,6 +687,7 @@
     <SUITE FILE_PATH="coverage/python$test_27.coverage" NAME="test_27 Coverage Results" MODIFIED="1572935303874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_25_.coverage" NAME="hm_25_打印九九乘法表 Coverage Results" MODIFIED="1570847538233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$fb_01.coverage" NAME="fb_01 Coverage Results" MODIFIED="1573566970613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
+    <SUITE FILE_PATH="coverage/python$fb_csv_01.coverage" NAME="fb_csv-01 Coverage Results" MODIFIED="1574248820292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
     <SUITE FILE_PATH="coverage/study$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1572692084822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_06_.coverage" NAME="hm_06_超市买苹果 Coverage Results" MODIFIED="1570766642982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$fb_20_08.coverage" NAME="fb_20-08 Coverage Results" MODIFIED="1573271721719" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
@@ -880,13 +899,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/story.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
@@ -894,10 +906,24 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/main1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="81">
           <caret line="3" lean-forward="true" selection-start-line="3" selection-end-line="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_csv-01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="4" column="18" lean-forward="true" selection-start-line="4" selection-start-column="18" selection-end-line="4" selection-end-column="18" />
         </state>
       </provider>
     </entry>
