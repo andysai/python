@@ -1,5 +1,6 @@
 import csv
-with open('some.csv', newline='') as f:
+with open('test.csv', newline='') as f:
     reader = csv.reader(f)
     for row in reader:
         print(row)
+print('读取完毕')
