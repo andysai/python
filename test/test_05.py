@@ -16,7 +16,7 @@ server_smtp = 'mail.casc.ac.cn'
 
 # 邮箱正文内容，第一个参数为内容，第二个参数为格式(plain 为纯文本)，第三个参数为编码
 text = """你好：
-    这是一个测试文件
+    这是一个测试邮件
 """
 
 msg = MIMEText(text,'plain','utf-8')

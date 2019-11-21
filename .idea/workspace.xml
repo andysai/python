@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_04_邮件发送练习.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_01-1.0版本.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_01-1.0版本.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_05.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -481,7 +478,14 @@
       <option name="project" value="LOCAL" />
       <updated>1574303867989</updated>
     </task>
-    <option name="localTasksCounter" value="37" />
+    <task id="LOCAL-00037" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1574306525942</created>
+      <option name="number" value="00037" />
+      <option name="presentableId" value="LOCAL-00037" />
+      <option name="project" value="LOCAL" />
+      <updated>1574306525942</updated>
+    </task>
+    <option name="localTasksCounter" value="38" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
