@@ -10,6 +10,6 @@ version, level, qr_name = myqr.run(
   colorized=True,          # 彩色二维码
   contrast=1.0,            #用以调节图片的对比度，1.0 表示原始图片，更小的值表示更低对比度，更大反之。默认为1.0
   brightness=1.0,          #用来调节图片的亮度，其余用法和取值同上
-  save_name="4.gif",       # 保存文件的名字，格式可以是jpg,png,bmp,gif
+  save_name="5.gif",       # 保存文件的名字，格式可以是jpg,png,bmp,gif
   save_dir=os.getcwd()     #控制位置,保存在当前目录
 )
