@@ -1,5 +1,6 @@
 import smtplib
 from email.mime.text import MIMEText
+
 from_addr = '429448383@qq.com'
 password = 'aoginbolncggcahj'
 to_addr = '429448383@qq.com'
