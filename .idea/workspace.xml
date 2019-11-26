@@ -2,12 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -31,80 +25,7 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_01.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="189">
-              <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_02.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="95">
-              <caret line="9" column="34" selection-start-line="9" selection-start-column="29" selection-end-line="9" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_03.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="243">
-              <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="6" column="23" selection-start-line="6" selection-start-column="10" selection-end-line="6" selection-end-column="23" />
-              <folding>
-                <element signature="e#33#48#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_05.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-175">
-              <caret line="1" selection-start-line="1" selection-end-line="2" selection-end-column="29" />
-              <folding>
-                <element signature="e#106#121#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_06.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="12" column="28" lean-forward="true" selection-start-line="12" selection-start-column="28" selection-end-line="12" selection-end-column="28" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -188,7 +109,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -207,17 +127,11 @@
               <item name="风变编程" type="462c0819:PsiDirectoryNode" />
               <item name="python爬虫-山脚班" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="风变编程" type="462c0819:PsiDirectoryNode" />
-              <item name="python爬虫-山脚班" type="462c0819:PsiDirectoryNode" />
-              <item name="fb_02" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -226,7 +140,7 @@
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -430,14 +344,9 @@
       <workItem from="1574535225582" duration="640000" />
       <workItem from="1574566384318" duration="4114000" />
       <workItem from="1574592511376" duration="96000" />
-      <workItem from="1574660435987" duration="12618000" />
-    </task>
-    <task id="LOCAL-00005" summary="study">
-      <created>1570864298737</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1570864298737</updated>
+      <workItem from="1574660435987" duration="13163000" />
+      <workItem from="1574692946377" duration="282000" />
+      <workItem from="1574694659255" duration="21000" />
     </task>
     <task id="LOCAL-00006" summary="study">
       <created>1571106501365</created>
@@ -775,22 +684,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574660945745</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1574690949394</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1574690949394</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="75116000" />
+    <option name="totallyTimeSpent" value="75964000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="469" y="252" width="1681" height="1050" extended-state="0" />
-    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" weight="0.14629629" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14990747" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.44650656" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918255" weight="0.44650656" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1201,40 +1116,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="2" column="19" lean-forward="true" selection-start-line="1" selection-start-column="83" selection-end-line="2" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="97" selection-start-line="1" selection-start-column="86" selection-end-line="1" selection-end-column="97" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="15" selection-start-column="7" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02.py" />
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08.py" />
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07.py" />
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_01.py" />
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05.py" />
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06.py" />
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02/fb_01.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="189">
