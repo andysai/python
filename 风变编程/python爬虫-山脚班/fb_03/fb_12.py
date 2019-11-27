@@ -17,8 +17,7 @@ for x in range(100):
     # print(new_url)
     new_url = 'https://s.taobao.com//search?initiative_id=staobaoz_20191127&q=%E7%8C%AB%E7%A0%82&bcoffset=-9&ntoffset=-9&p4ppushleft=1%2C48&s=2112'
     get_url = requests.get(new_url,headers=headers)
-    suop = BeautifulSoup(get_url.text,'html.parser')
-    web_find = suop.find('div',class_='item J_MouserOnverReq  ')
-    web_find1 = suop.find_all('div', class_='item J_MouserOnverReq  ')
+    suop = BeautifulSoup(get_url.content,'html.parser')
+    web_find = suop.find_all('div', class_="item J_MouserOnverReq  ")
 
-    print(web_find)
+print(suop)
