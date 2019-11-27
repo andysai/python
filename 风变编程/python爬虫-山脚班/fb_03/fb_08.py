@@ -1,6 +1,7 @@
 #  序号/电影名/评分/推荐语/链接
 import requests,random
 from bs4 import BeautifulSoup
+import re
 
 for x in range(10):
     headers = {
@@ -37,12 +38,4 @@ for x in range(10):
             if num != '':
                 numbers.append(int(num))
         movie_link = mes.find('a')
-        for i in numbers:
-            if movie_Rl == None:
-                mess = '序号:{}\n电影名:{}\n上映时间:{}\n评分:{}\n推荐语:{}\n链接:{}\n'.format(movie_number.text,movie_name.text,i,
-                                                                 movie_score.text,'',movie_link['href'])
-            else:
-                mess = '序号:{}\n电影名:{}\n上映时间:{}\n评分:{}\n推荐语:{}\n链接:{}\n'.format(movie_number.text, movie_name.text,i,
-                                                                 movie_score.text,movie_Rl.text, movie_link['href'])
-        with open('top250_movie.txt','a',encoding='utf-8') as f:
-            f.write(mess)
+    print(numbers)
