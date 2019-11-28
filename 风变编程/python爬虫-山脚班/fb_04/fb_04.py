@@ -13,4 +13,3 @@ for music in list_music:
     time = str(music['interval']) + '秒'
     link = 'https://y.qq.com/n/yqq/song/' + music['mid'] + '.html'
     print('歌曲名:{}\n专辑名:{}\n播放时长:{}\n播放链接:{}\n'.format(name,album,time,link))
-
