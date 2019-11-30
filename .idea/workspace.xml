@@ -2,16 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_01.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_06.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_07.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_02.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -35,26 +35,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="19" />
-              <folding>
-                <element signature="e#0#15#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py">
+        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="714">
-              <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
-              <folding>
-                <element signature="e#20#42#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="285">
+              <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
             </state>
           </provider>
         </entry>
@@ -74,15 +59,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_02.py" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16/fb_os模块.py" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_01-1.0版本.py" />
-        <option value="$PROJECT_DIR$/风变编程/python镜像" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_03-math.py" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_08.py" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/test.txt" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_02.py" />
-        <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_02-01.py" />
         <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_02-动态二维码.py" />
         <option value="$PROJECT_DIR$/test/test_07.py" />
         <option value="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送/fb_05_邮件发送练习.py" />
@@ -125,14 +101,23 @@
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_05.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_01.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_02.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_03.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_04.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_05.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_06.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_07.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_08.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="535" />
-    <option name="y" value="137" />
+    <option name="x" value="791" />
+    <option name="y" value="193" />
     <option name="width" value="1681" />
-    <option name="height" value="1050" />
+    <option name="height" value="1068" />
   </component>
   <component name="ProjectId" id="1S2a6fSP771ChUEKRtv2YRjzjom" />
   <component name="ProjectLevelVcsManager">
@@ -167,7 +152,7 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="风变编程" type="462c0819:PsiDirectoryNode" />
               <item name="python爬虫-山脚班" type="462c0819:PsiDirectoryNode" />
-              <item name="fb_06" type="462c0819:PsiDirectoryNode" />
+              <item name="fb_07" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -207,73 +192,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.fb_06">
-    <configuration name="fb_02" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_02.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fb_03 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_03.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="fb_04" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.fb_09">
     <configuration name="fb_05" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -282,12 +201,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_05.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -304,12 +223,78 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_06.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fb_07" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_07.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fb_08" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_08.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="fb_09" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -320,11 +305,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.fb_09" />
+        <item itemvalue="Python.fb_08" />
+        <item itemvalue="Python.fb_07" />
         <item itemvalue="Python.fb_06" />
-        <item itemvalue="Python.fb_04" />
         <item itemvalue="Python.fb_05" />
-        <item itemvalue="Python.fb_03 (1)" />
-        <item itemvalue="Python.fb_02" />
       </list>
     </recent_temporary>
   </component>
@@ -392,14 +377,7 @@
       <workItem from="1574772836577" duration="2373000" />
       <workItem from="1574864293655" duration="1755000" />
       <workItem from="1575028881614" duration="2100000" />
-      <workItem from="1575084470727" duration="6488000" />
-    </task>
-    <task id="LOCAL-00009" summary="study">
-      <created>1572830267904</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1572830267904</updated>
+      <workItem from="1575084470727" duration="15613000" />
     </task>
     <task id="LOCAL-00010" summary="study">
       <created>1572834041659</created>
@@ -737,22 +715,28 @@
       <option name="project" value="LOCAL" />
       <updated>1574855033589</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1575109695324</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1575109695325</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="99200000" />
+    <option name="totallyTimeSpent" value="108325000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="535" y="137" width="1681" height="1050" extended-state="0" />
-    <editor active="true" />
+    <frame x="791" y="193" width="1681" height="1068" extended-state="0" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.1351018" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.1351018" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918255" weight="0.47379914" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.4646681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -774,8 +758,8 @@
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.3296433" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.47379914" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.3286026" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.4646681" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39855072" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -845,8 +829,8 @@
     <SUITE FILE_PATH="coverage/python$fb_03__1_.coverage" NAME="fb_03 (1) Coverage Results" MODIFIED="1575088446572" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05" />
     <SUITE FILE_PATH="coverage/python$fb_12_01.coverage" NAME="fb_12-01 Coverage Results" MODIFIED="1573304731499" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/python$test_6_1.coverage" NAME="test_6-1 Coverage Results" MODIFIED="1572932968441" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/python$fb_05.coverage" NAME="fb_05 Coverage Results" MODIFIED="1575107399019" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
-    <SUITE FILE_PATH="coverage/python$fb_02.coverage" NAME="fb_02 Coverage Results" MODIFIED="1575088436233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05" />
+    <SUITE FILE_PATH="coverage/python$fb_05.coverage" NAME="fb_05 Coverage Results" MODIFIED="1575114148962" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+    <SUITE FILE_PATH="coverage/python$fb_02.coverage" NAME="fb_02 Coverage Results" MODIFIED="1575110019824" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/python$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1572877905713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$test_11.coverage" NAME="test_11 Coverage Results" MODIFIED="1572699965810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1573826244759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
@@ -861,7 +845,7 @@
     <SUITE FILE_PATH="coverage/python$fb_03_.coverage" NAME="fb_03-困难选择 Coverage Results" MODIFIED="1574530572463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_18" />
     <SUITE FILE_PATH="coverage/python$test_27.coverage" NAME="test_27 Coverage Results" MODIFIED="1572935303874" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_25_.coverage" NAME="hm_25_打印九九乘法表 Coverage Results" MODIFIED="1570847538233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
-    <SUITE FILE_PATH="coverage/python$fb_01.coverage" NAME="fb_01 Coverage Results" MODIFIED="1575086360226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+    <SUITE FILE_PATH="coverage/python$fb_01.coverage" NAME="fb_01 Coverage Results" MODIFIED="1575109991584" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/python$fb_csv_01.coverage" NAME="fb_csv-01 Coverage Results" MODIFIED="1574249090130" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
     <SUITE FILE_PATH="coverage/study$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1572692084822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_06_.coverage" NAME="hm_06_超市买苹果 Coverage Results" MODIFIED="1570766642982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
@@ -884,7 +868,8 @@
     <SUITE FILE_PATH="coverage/python$fb_01_1_0.coverage" NAME="fb_01-1.0版本 Coverage Results" MODIFIED="1574253568302" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送" />
     <SUITE FILE_PATH="coverage/study$hm_24_print.coverage" NAME="hm_24_print函数的结尾 Coverage Results" MODIFIED="1570844223575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$fb_02_01.coverage" NAME="fb_02-01 Coverage Results" MODIFIED="1574349249564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
-    <SUITE FILE_PATH="coverage/python$fb_06.coverage" NAME="fb_06 Coverage Results" MODIFIED="1575109609115" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+    <SUITE FILE_PATH="coverage/python$fb_06.coverage" NAME="fb_06 Coverage Results" MODIFIED="1575114275520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+    <SUITE FILE_PATH="coverage/python$fb_09.coverage" NAME="fb_09 Coverage Results" MODIFIED="1575117768032" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="餐馆 Coverage Results" MODIFIED="1573344753855" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/类的练习" />
     <SUITE FILE_PATH="coverage/python$test_35.coverage" NAME="test_35 Coverage Results" MODIFIED="1572841028211" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_32.coverage" NAME="test_32 Coverage Results" MODIFIED="1572837349335" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -895,10 +880,12 @@
     <SUITE FILE_PATH="coverage/python$fb_16.coverage" NAME="fb_16 Coverage Results" MODIFIED="1573012792722" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$test_26.coverage" NAME="test_26 Coverage Results" MODIFIED="1572922999119" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_22.coverage" NAME="fb_22 Coverage Results" MODIFIED="1573304084979" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
+    <SUITE FILE_PATH="coverage/python$fb_04__1_.coverage" NAME="fb_04 (1) Coverage Results" MODIFIED="1575114030546" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/study$hm_31_.coverage" NAME="hm_31_第一个函数改造 Coverage Results" MODIFIED="1571108824968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$test_29.coverage" NAME="test_29 Coverage Results" MODIFIED="1572954903452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_06_2.coverage" NAME="test_06-2 Coverage Results" MODIFIED="1572934886431" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_04.coverage" NAME="fb_04 Coverage Results" MODIFIED="1575108887454" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+    <SUITE FILE_PATH="coverage/python$fb_07.coverage" NAME="fb_07 Coverage Results" MODIFIED="1575114373882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/study$test_12.coverage" NAME="test_12 Coverage Results" MODIFIED="1572705257227" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_30.coverage" NAME="test_30 Coverage Results" MODIFIED="1572832455159" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/python$fb_02_.coverage" NAME="fb_02-动态二维码 Coverage Results" MODIFIED="1574439465210" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_17-邮件发送" />
@@ -915,7 +902,8 @@
     <SUITE FILE_PATH="coverage/study$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1572739303422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1572833728744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1574509621491" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1575088061175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06" />
+    <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1575110055341" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
+    <SUITE FILE_PATH="coverage/python$fb_08.coverage" NAME="fb_08 Coverage Results" MODIFIED="1575114926297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07" />
     <SUITE FILE_PATH="coverage/python$test_25.coverage" NAME="test_25 Coverage Results" MODIFIED="1572916611446" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_16_02.coverage" NAME="fb_16-02 Coverage Results" MODIFIED="1573010813723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$fb_20_01.coverage" NAME="fb_20-01 Coverage Results" MODIFIED="1573257503598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
@@ -924,80 +912,6 @@
     <SUITE FILE_PATH="coverage/python$fb_26.coverage" NAME="fb_26 Coverage Results" MODIFIED="1573021314217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_18/fb_04-选择.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="10" column="34" lean-forward="true" selection-start-line="10" selection-start-column="34" selection-end-line="10" selection-end-column="34" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_18/fb_06-动态广告1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" column="15" lean-forward="true" selection-start-line="4" selection-start-column="15" selection-end-line="4" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_18/fb_05-动态广告.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret lean-forward="true" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/assets.csv">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_01.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="189">
-          <caret line="7" selection-start-line="7" selection-end-line="7" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_02.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="4" selection-start-line="4" selection-end-line="7" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_03.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="621">
-          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_06.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="462">
-          <caret line="80" column="22" selection-start-line="80" selection-start-column="22" selection-end-line="80" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/test/test_10.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_04.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="6" column="12" selection-start-line="6" selection-start-column="12" selection-end-line="6" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python基础-山顶班/fb_19/fb_05.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="297">
-          <caret line="11" column="55" lean-forward="true" selection-start-line="11" selection-start-column="55" selection-end-line="11" selection-end-column="55" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_02.py" />
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08.py" />
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07.py" />
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_01.py" />
@@ -1212,9 +1126,6 @@
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_04.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_01.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_02.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="399">
@@ -1259,10 +1170,30 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py">
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_03.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="5" selection-start-line="5" selection-end-line="5" selection-end-column="19" />
+        <state relative-caret-position="243">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="6" selection-end-line="6" selection-end-column="3" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_02.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="348">
+          <caret line="14" column="11" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="11" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="243">
+          <caret line="9" column="7" lean-forward="true" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="7" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
           </folding>
@@ -1271,11 +1202,92 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="714">
-          <caret line="37" column="22" lean-forward="true" selection-start-line="37" selection-start-column="22" selection-end-line="37" selection-end-column="22" />
+        <state relative-caret-position="267">
+          <caret line="38" column="22" lean-forward="true" selection-start-line="38" selection-start-column="22" selection-end-line="38" selection-end-column="22" />
           <folding>
             <element signature="e#20#42#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_04/fb_06.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_04/fb_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_05/fb_01.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="7" column="33" selection-start-line="7" selection-start-column="20" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_07.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="177">
+          <caret line="33" column="30" selection-end-line="41" selection-end-column="17" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_06.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="27" column="17" selection-start-line="27" selection-start-column="17" selection-end-line="27" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_08.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="37" column="16" lean-forward="true" selection-start-line="37" selection-start-column="16" selection-end-line="37" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_05.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="621">
+          <caret line="23" column="19" selection-start-line="23" selection-start-column="19" selection-end-line="23" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="5" column="1" selection-start-line="5" selection-start-column="1" selection-end-line="5" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-469">
+          <caret line="8" column="20" lean-forward="true" selection-start-line="8" selection-start-column="20" selection-end-line="8" selection-end-column="20" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/cuoti.txt">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="49" lean-forward="true" selection-start-line="49" selection-end-line="49" />
         </state>
       </provider>
     </entry>
