@@ -46,5 +46,5 @@ for x in range(8):
         # 查找专辑名
         print('播放时长：'+str(music['interval'])+'秒')
         # 查找播放时长
-        print('播放链接：https://y.qq.com/n/yqq/song/'+music['mid']+'.html\n\n')
+        print('播放链接：https://y.qq.com/n/yqq/song/'+music['mid']+'.html\n')
         # 查找播放链接
