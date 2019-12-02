@@ -21,7 +21,7 @@ for i in range(5):
         'topid': '97773',
         'cmd': '8',
         'needmusiccrit': '0',
-        'pagenum': '0',
+        'pagenum': str(i),
         'pagesize': '25',
         'lasthotcommentid': '',
         'domain': 'qq.com',
