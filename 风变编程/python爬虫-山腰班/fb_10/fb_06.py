@@ -21,7 +21,7 @@ def send_mail():
     account = 'czl@casc.ac.cn'
     password = 'idc888888'
     cascmail.login(account, password)
-    receiver = 'lhh@casc.ac.cn'
+    receiver = '344319484@qq.com'
     message = MIMEText(weather(),'plain','utf-8')
     subject = '每日天气'
     message['Subject'] = Header(subject,'utf-8')
