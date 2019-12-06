@@ -2,57 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_13.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_14.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_15.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/cuoti.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/Marvel.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/Marvel.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/a.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/a.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/demo.csv" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/demo.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/fb_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/fb_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/movies.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/movies.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/songs.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/songs.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_06/新建 Microsoft Excel 工作表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_06/新建 Microsoft Excel 工作表.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/articles.csv" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/articles.csv" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/cuoti.txt" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_12.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/fb_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/fb_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/知乎文章.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/知乎文章.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_07/知乎文章1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_07/知乎文章1.xlsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/a.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/cookies.txt" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/cookies.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/db_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/db_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_01_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_01_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_02.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_02_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_02_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_03.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_03_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_03_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_04_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_04_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_05_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_05_01.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_06.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_07.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_08.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_09.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_08/fb_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_08/fb_10.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山脚班/fb_09/fb_11.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -84,11 +34,11 @@
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\python\风变编程\python爬虫-山腰班" />
       <recent name="E:\python\风变编程\python基础-山顶班\fb_16" />
       <recent name="E:\python\test" />
       <recent name="E:\python\风变编程\python基础-山脚班" />
       <recent name="E:\python\风变编程\python基础-山腰班" />
-      <recent name="D:\python\test" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -596,7 +546,14 @@
       <option name="project" value="LOCAL" />
       <updated>1575536687018</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1575599602056</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1575599602057</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
