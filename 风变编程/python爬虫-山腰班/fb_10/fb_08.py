@@ -11,22 +11,20 @@ def get_foods():
     res = requests.get(url,headers=headers)
     res.encoding = 'utf-8'
     suops = BeautifulSoup(res.text,'html.parser').find_all('div',class_='info pure-u')
-    new_str = ''
     for suop in suops:
         name = suop.find('p').text.strip()
         ing_ellipsis = suop.find('p', class_='ing ellipsis').text.strip()
         link = 'http://www.xiachufang.com' + suop.find('a')['href']
-        new_str += '菜谱名称:{}\n材料:{}\n链接:{}\n'.format(name,ing_ellipsis,link)
-    return new_str
+        return '菜谱名称:{}\n材料:{}\n链接:{}\n'.format(name,ing_ellipsis,link)
 
 def send_mail():
     mail_host = 'smtp.casc.ac.cn'
     casc_mail = smtplib.SMTP()
     casc_mail.connect(mail_host,25)
-    account = 'czl@casc.ac.cn'
-    password = 'idc888888'
+    account = ''
+    password = ''
     casc_mail.login(account,password)
-    receiver = '344319484@qq.com'
+    receiver = ''
     message = MIMEText(get_foods(),'plain','utf-8')
     subject = '本周最受欢迎食谱'
     message['Subject'] = Header(subject,'utf=8')
@@ -37,13 +35,12 @@ def send_mail():
         print('邮件发送失败')
     casc_mail.quit()
 
-
 def job():
     print("开始第一次任务")
     send_mail()
     print("任务完成")
 
-schedule.every().day.at("10:57").do(job)
+schedule.every().day.at("20:28").do(job)
 while True:
     schedule.run_pending()
     time.sleep(1)
