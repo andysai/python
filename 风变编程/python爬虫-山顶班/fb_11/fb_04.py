@@ -41,4 +41,6 @@ res_movie = requests.get(url_1,headers=headers)
 suop_movies = BeautifulSoup(res_movie.text,'html.parser').find('div',class_='top_list').find_all('li')
 for suop_movie in suop_movies:
     name = suop_movie.find(class_='px14 pb6')
-    print(name.text)
+    actor = suop_movie.find_all('p')[0]
+    actor1 = suop_movie.find_all('p')[1]
+    print(actor.text,actor1.text)
