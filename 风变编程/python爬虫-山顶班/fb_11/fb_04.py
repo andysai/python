@@ -14,7 +14,9 @@ from gevent.queue import Queue
 
 
 # 添加请求头
-headers={'user-agent':'Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'}
+headers={
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/70.0.3538.25 Safari/537.36 Core/1.70.3741.400 QQBrowser/10.5.3863.400'
+}
 
 # 添加TOP100电视剧的链接
 url_lists = []
@@ -27,7 +29,7 @@ for i in range(1,11):
 
 url_1 = 'http://www.mtime.com/top/tv/top100/'
 res_movie = requests.get(url_1,headers=headers)
+suop_movie = BeautifulSoup(res_movie.text,'html.parser')
 
 
-
-print(res_movie.status_code)
+print(suop_movie)
