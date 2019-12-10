@@ -49,7 +49,7 @@ def crawler():
             for data in TV_message:
                 TV_data = TV_data + ' ' + data.text
             writer.writerow([TV_name,TV_data])
-            print([TV_name,TV_data])
+            return [TV_name,TV_data]
 
 f = open('movie.xlsx','w',newline='',encoding='utf-8')
 writer = csv.writer(f)
