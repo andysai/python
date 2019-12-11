@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,33 +27,12 @@
     <select />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+    <leaf>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="459">
-              <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-              <folding>
-                <element signature="e#0#17#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="324">
-              <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/main.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+              <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -61,8 +40,26 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/items.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="405">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+            <state relative-caret-position="324">
+              <caret line="13" column="26" selection-start-line="13" selection-end-line="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" column="12" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="12" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/main.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-line="2" selection-end-column="44" />
             </state>
           </provider>
         </entry>
@@ -130,15 +127,15 @@
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_11/fb_04.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/fb_01.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/items.py" />
-        <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/main.py" />
         <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py" />
+        <option value="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="567" />
-    <option name="y" value="185" />
+    <option name="x" value="547" />
+    <option name="y" value="178" />
     <option name="width" value="1681" />
     <option name="height" value="1141" />
   </component>
@@ -151,7 +148,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -175,13 +171,6 @@
               <item name="python" type="462c0819:PsiDirectoryNode" />
               <item name="风变编程" type="462c0819:PsiDirectoryNode" />
               <item name="python爬虫-山顶班" type="462c0819:PsiDirectoryNode" />
-              <item name="fb_12" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="风变编程" type="462c0819:PsiDirectoryNode" />
-              <item name="python爬虫-山顶班" type="462c0819:PsiDirectoryNode" />
               <item name="fb_13" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -200,11 +189,22 @@
               <item name="fb_13" type="462c0819:PsiDirectoryNode" />
               <item name="douban" type="462c0819:PsiDirectoryNode" />
               <item name="douban" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="python" type="b2602c69:ProjectViewProjectNode" />
+              <item name="python" type="462c0819:PsiDirectoryNode" />
+              <item name="风变编程" type="462c0819:PsiDirectoryNode" />
+              <item name="python爬虫-山顶班" type="462c0819:PsiDirectoryNode" />
+              <item name="fb_13" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="douban" type="462c0819:PsiDirectoryNode" />
+              <item name="spiders" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -452,14 +452,8 @@
       <workItem from="1575686500657" duration="14716000" />
       <workItem from="1575782063813" duration="1911000" />
       <workItem from="1576066252617" duration="544000" />
-      <workItem from="1576066864431" duration="1791000" />
-    </task>
-    <task id="LOCAL-00017" summary="study">
-      <created>1572941878259</created>
-      <option name="number" value="00017" />
-      <option name="presentableId" value="LOCAL-00017" />
-      <option name="project" value="LOCAL" />
-      <updated>1572941878259</updated>
+      <workItem from="1576066864431" duration="1973000" />
+      <workItem from="1576068945935" duration="240000" />
     </task>
     <task id="LOCAL-00018" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1572956465700</created>
@@ -797,22 +791,29 @@
       <option name="project" value="LOCAL" />
       <updated>1575992023588</updated>
     </task>
-    <option name="localTasksCounter" value="66" />
+    <task id="LOCAL-00066" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1576068816434</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1576068816435</updated>
+    </task>
+    <option name="localTasksCounter" value="67" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="155875000" />
+    <option name="totallyTimeSpent" value="156297000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="1072" y="204" width="1681" height="1141" extended-state="0" />
+    <frame x="547" y="178" width="1681" height="1141" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16162862" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16347933" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.3286026" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.38430983" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49918255" visible="true" weight="0.42601788" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39821252" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -924,7 +925,7 @@
     <SUITE FILE_PATH="coverage/python$fb_24.coverage" NAME="fb_24 Coverage Results" MODIFIED="1573021008356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1574590646553" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_33.coverage" NAME="test_33 Coverage Results" MODIFIED="1572839963882" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1576068712946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban" />
+    <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1576069080814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban" />
     <SUITE FILE_PATH="coverage/study$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1572697370601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_08.coverage" NAME="test_08 Coverage Results" MODIFIED="1574510638250" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_02__1_.coverage" NAME="fb_02 (1) Coverage Results" MODIFIED="1574346800656" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
@@ -1263,34 +1264,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/items.py">
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        <state relative-caret-position="324">
+          <caret line="21" column="17" selection-start-line="21" selection-start-column="17" selection-end-line="21" selection-end-column="22" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py">
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/items.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="459">
-          <caret line="20" column="22" lean-forward="true" selection-start-line="20" selection-start-column="22" selection-end-line="20" selection-end-column="22" />
-          <folding>
-            <element signature="e#0#17#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="324">
+          <caret line="13" column="26" selection-start-line="13" selection-end-line="16" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/main.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" column="23" selection-start-line="1" selection-start-column="23" selection-end-line="1" selection-end-column="23" />
+        <state>
+          <caret selection-end-line="2" selection-end-column="44" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/settings.py">
+    <entry file="file://$PROJECT_DIR$/风变编程/python爬虫-山顶班/fb_13/douban/douban/spiders/top250.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="21" column="22" lean-forward="true" selection-start-line="21" selection-start-column="22" selection-end-line="21" selection-end-column="22" />
+        <state relative-caret-position="27">
+          <caret line="1" column="12" selection-start-line="1" selection-start-column="7" selection-end-line="1" selection-end-column="12" />
         </state>
       </provider>
     </entry>
