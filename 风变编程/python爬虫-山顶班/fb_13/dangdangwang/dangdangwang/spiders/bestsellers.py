@@ -4,7 +4,7 @@ from ..items import DangdangwangItem
 
 class DangdangwangSpider(scrapy.Spider):
     name = 'dangdangwang'
-    allowed_dpmains = ['http://bang.dangdang.com']
+    allowed_domains = ['http://bang.dangdang.com']
     url_lists = []
     for i in range(3):
         url = 'http://bang.dangdang.com/books/bestsellers/01.00.00.00.00.00-year-2018-0-1-' + str(i + 1)
