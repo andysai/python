@@ -31,15 +31,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_13\dangdangwang" />
       <recent name="D:\python\风变编程\python爬虫-山腰班" />
       <recent name="E:\python\风变编程\python基础-山顶班\fb_16" />
       <recent name="E:\python\test" />
       <recent name="E:\python\风变编程\python基础-山脚班" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
   <component name="RunDashboard">
