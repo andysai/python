@@ -19,11 +19,10 @@ class doubanshupin(scrapy.Spider):
             yield scrapy.Request(book_link,callback=self.parse_job)
 
     def parse_job(self, response):
-        print(1)
+        book_name = 1
         res = bs4.BeautifulSoup(response.text,'html.parser')
         datas = res.find_all('li', class_='comment-item')
         for data in datas:
-            print(3)
             item = DoubanshupinItem()
             item['book_name'] = book_name
             item['comment_IDcomment_ID'] = data.find_all('a')[0]['title']

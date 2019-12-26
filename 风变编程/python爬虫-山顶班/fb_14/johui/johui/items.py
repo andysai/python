@@ -8,10 +8,10 @@
 import scrapy
 
 
-class JobuiItem(scrapy.Item):
+class JohuiItem(scrapy.Item):
     # define the fields for your item here like:
     # name = scrapy.Field()
     company = scrapy.Field()
-    job = scrapy.Field()
+    position = scrapy.Field()
     address = scrapy.Field()
-    conditions = scrapy.Field()
+    detail = scrapy.Field()

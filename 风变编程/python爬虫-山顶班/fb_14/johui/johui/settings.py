@@ -1,6 +1,6 @@
 # -*- coding: utf-8 -*-
 
-# Scrapy settings for jobui project
+# Scrapy settings for johui project
 #
 # For simplicity, this file contains only settings considered important or
 # commonly used. You can find more settings consulting the documentation:
@@ -9,17 +9,17 @@
 #     https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #     https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 
-BOT_NAME = 'jobui'
+BOT_NAME = 'johui'
 
-SPIDER_MODULES = ['jobui.spiders']
-NEWSPIDER_MODULE = 'jobui.spiders'
-
+SPIDER_MODULES = ['johui.spiders']
+NEWSPIDER_MODULE = 'johui.spiders'
 
 # Crawl responsibly by identifying yourself (and your website) on the user-agent
 USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/71.0.3578.98 Safari/537.36'
 
 # Obey robots.txt rules
 ROBOTSTXT_OBEY = False
+
 FEED_URI='./storage/data/%(name)s.csv'
 FEED_FORMAT='CSV'
 FEED_EXPORT_ENCODING='ansi'
@@ -49,13 +49,13 @@ DOWNLOAD_DELAY = 0.5
 # Enable or disable spider middlewares
 # See https://docs.scrapy.org/en/latest/topics/spider-middleware.html
 #SPIDER_MIDDLEWARES = {
-#    'jobui.middlewares.JobuiSpiderMiddleware': 543,
+#    'johui.middlewares.JohuiSpiderMiddleware': 543,
 #}
 
 # Enable or disable downloader middlewares
 # See https://docs.scrapy.org/en/latest/topics/downloader-middleware.html
 #DOWNLOADER_MIDDLEWARES = {
-#    'jobui.middlewares.JobuiDownloaderMiddleware': 543,
+#    'johui.middlewares.JohuiDownloaderMiddleware': 543,
 #}
 
 # Enable or disable extensions
@@ -66,9 +66,9 @@ DOWNLOAD_DELAY = 0.5
 
 # Configure item pipelines
 # See https://docs.scrapy.org/en/latest/topics/item-pipeline.html
-#ITEM_PIPELINES = {
-#    'jobui.pipelines.JobuiPipeline': 300,
-#}
+ITEM_PIPELINES = {
+    'johui.pipelines.JohuiPipeline': 300,
+}
 
 # Enable and configure the AutoThrottle extension (disabled by default)
 # See https://docs.scrapy.org/en/latest/topics/autothrottle.html
