@@ -2,11 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境/05.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/python.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/python.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境/04.py" beforeDir="false" afterPath="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境/04.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -223,14 +219,7 @@
       <workItem from="1580112725484" duration="5372000" />
       <workItem from="1580988243730" duration="3808000" />
       <workItem from="1581003620126" duration="79000" />
-      <workItem from="1581049916083" duration="1804000" />
-    </task>
-    <task id="LOCAL-00018" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1572956465700</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1572956465700</updated>
+      <workItem from="1581049916083" duration="1958000" />
     </task>
     <task id="LOCAL-00019" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1572956505841</created>
@@ -568,7 +557,14 @@
       <option name="project" value="LOCAL" />
       <updated>1581002731174</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1581051865475</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1581051865475</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -607,30 +603,30 @@
     <option name="LAST_COMMIT_MESSAGE" value="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1581002729522">
+    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1581051864053">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1581002729522" />
+    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1581051864053" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1581003690599">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1581003690599" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1581051800939">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1581051875021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581051800939" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1581051800939">
+    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1581051875021" />
+    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1581051875020">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581051800939" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1581051800939">
+    <state width="1340" height="266" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1581051875020" />
+    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1581051875020">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581051800939" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1581051800939">
+    <state width="1340" height="266" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1581051875020" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1581051875021">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581051800939" />
+    <state width="1340" height="266" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1581051875021" />
     <state x="1542" y="615" key="MultipleFileMergeDialog" timestamp="1580053124622">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
