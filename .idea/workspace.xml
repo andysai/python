@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
+    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/实用代码/01_web展示excle数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -51,7 +52,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.第三次直播代码">
+  <component name="RunManager" selected="Python.01_web展示excle数据">
     <configuration name="第三次直播代码" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -74,6 +75,25 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="01_web展示excle数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/01_web展示excle数据.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="true" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="test_23" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -88,28 +108,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_23.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test_24" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_24.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -164,11 +162,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.01_web展示excle数据" />
+        <item itemvalue="Python.01_web展示excle数据" />
         <item itemvalue="Python.第三次直播代码" />
         <item itemvalue="Python.test_23" />
         <item itemvalue="Python.test_26" />
-        <item itemvalue="Python.test_25" />
-        <item itemvalue="Python.test_24" />
       </list>
     </recent_temporary>
   </component>
@@ -233,6 +231,7 @@
       <workItem from="1582845259731" duration="2735000" />
       <workItem from="1582860849810" duration="4546000" />
       <workItem from="1582893390988" duration="7704000" />
+      <workItem from="1582912819610" duration="2268000" />
     </task>
     <task id="LOCAL-00023" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573021027433</created>
@@ -624,37 +623,43 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582899255721" />
-    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1582900465104">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="928" y="147" key="CommitChangelistDialog2" timestamp="1582913154274">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="928" y="147" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582913154274" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582900465104" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1582810034939">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1582810034939" />
-    <state width="1409" height="173" key="GridCell.Tab.0.bottom" timestamp="1582903142274">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1228" height="266" key="GridCell.Tab.0.bottom" timestamp="1582914818723">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1582914818723" />
     <state width="1409" height="173" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1582903142274" />
-    <state width="1409" height="173" key="GridCell.Tab.0.center" timestamp="1582903142274">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1228" height="266" key="GridCell.Tab.0.center" timestamp="1582914818723">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1582914818723" />
     <state width="1409" height="173" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1582903142274" />
-    <state width="1409" height="173" key="GridCell.Tab.0.left" timestamp="1582903142274">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1228" height="266" key="GridCell.Tab.0.left" timestamp="1582914818723">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1582914818723" />
     <state width="1409" height="173" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1582903142274" />
-    <state width="1409" height="173" key="GridCell.Tab.0.right" timestamp="1582903142274">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1228" height="266" key="GridCell.Tab.0.right" timestamp="1582914818723">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1228" height="266" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1582914818723" />
     <state width="1409" height="173" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1582903142274" />
     <state x="1542" y="615" key="MultipleFileMergeDialog" timestamp="1580053124622">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1542" y="615" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580053124622" />
-    <state x="1344" y="411" key="SettingsEditor" timestamp="1582867357111">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="827" y="199" key="SettingsEditor" timestamp="1582914276306">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582914276306" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582867357111" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1582900500390">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -733,7 +738,7 @@
     <SUITE FILE_PATH="coverage/python$fb_02_01.coverage" NAME="fb_02-01 Coverage Results" MODIFIED="1573027798993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/study$test.coverage" NAME="test Coverage Results" MODIFIED="1571106596404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1572739303422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="第三次直播代码 Coverage Results" MODIFIED="1582907191249" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心学院-3天数据分析/day_03" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="第三次直播代码 Coverage Results" MODIFIED="1582914280198" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/贪心学院-3天数据分析/day_03" />
     <SUITE FILE_PATH="coverage/study$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1572666486510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_25.coverage" NAME="fb_25 Coverage Results" MODIFIED="1573021264459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1572877905713" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
