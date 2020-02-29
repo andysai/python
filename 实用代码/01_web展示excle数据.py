@@ -10,7 +10,7 @@ def show_excle():
     return f"""
         <html>
             <body>
-                <h1>空闲资源统计-2020-02-14</h1>
+                <h1>故障统计表</h1>
                 <div>{table_html}</div>
             </body>
         </html>

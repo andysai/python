@@ -80,9 +80,6 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -238,13 +235,7 @@
       <workItem from="1582912819610" duration="2268000" />
       <workItem from="1582938620989" duration="363000" />
       <workItem from="1582939943372" duration="1150000" />
-    </task>
-    <task id="LOCAL-00023" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1573021027433</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1573021027433</updated>
+      <workItem from="1582942509231" duration="248000" />
     </task>
     <task id="LOCAL-00024" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573021352179</created>
@@ -582,7 +573,14 @@
       <option name="project" value="LOCAL" />
       <updated>1582900466177</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1582942523528</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1582942523529</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,10 +627,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582899255721" />
-    <state x="928" y="147" key="CommitChangelistDialog2" timestamp="1582913154274">
+    <state x="928" y="147" key="CommitChangelistDialog2" timestamp="1582942841906">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="928" y="147" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582913154274" />
+    <state x="928" y="147" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1582942841906" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1582900465104" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1582810034939">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -667,9 +665,10 @@
     </state>
     <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582942361077" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582938738623" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1582900500390">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1582942597518">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1582942597518" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1582900500390" />
     <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1580052889295">
       <screen x="0" y="0" width="2560" height="1400" />
