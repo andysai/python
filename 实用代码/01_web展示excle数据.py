@@ -5,7 +5,7 @@ app = Flask(__name__)
 
 @app.route('/')
 def show_excle():
-    df = pd.read_excel(r"./空闲资源统计-2020-02-14.xlsx")
+    df = pd.read_excel("./故障统计表.xlsx")
     table_html = df.to_html()
     return f"""
         <html>
