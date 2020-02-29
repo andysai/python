@@ -5,16 +5,16 @@ app = Flask(__name__)
 
 @app.route('/')
 def show_excle():
-    df = pd.read_excel("./故障统计表.xlsx")
+    df = pd.read_excel(r"./空闲资源统计-2020-02-14.xlsx")
     table_html = df.to_html()
     return f"""
         <html>
             <body>
-                <h1>故障统计表</h1>
+                <h1>空闲资源统计-2020-02-14</h1>
                 <div>{table_html}</div>
             </body>
         </html>
     """
 
 if __name__ == '__main__':
-    app.run(host="192.168.31.184")
+    app.run(host="0.0.0.0")

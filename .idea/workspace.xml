@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/实用代码/01_web展示excle数据.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实用代码/01_web展示excle数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/01_web展示excle数据.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -232,6 +232,7 @@
       <workItem from="1582860849810" duration="4546000" />
       <workItem from="1582893390988" duration="7704000" />
       <workItem from="1582912819610" duration="2268000" />
+      <workItem from="1582938620989" duration="363000" />
     </task>
     <task id="LOCAL-00023" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573021027433</created>
@@ -656,11 +657,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1542" y="615" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580053124622" />
-    <state x="827" y="199" key="SettingsEditor" timestamp="1582914276306">
-      <screen x="0" y="0" width="1920" height="1040" />
+    <state x="1344" y="411" key="SettingsEditor" timestamp="1582938738623">
+      <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1582914276306" />
-    <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582867357111" />
+    <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1582938738623" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1582900500390">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
