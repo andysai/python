@@ -85,6 +85,9 @@
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
       <option name="SDK_HOME" value="" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码" />
       <option name="IS_MODULE_SDK" value="true" />
@@ -251,6 +254,7 @@
       <workItem from="1583842580562" duration="180000" />
       <workItem from="1583856956328" duration="671000" />
       <workItem from="1583889202518" duration="1391000" />
+      <workItem from="1583926567967" duration="606000" />
     </task>
     <task id="LOCAL-00028" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573304748608</created>
