@@ -40,7 +40,7 @@ def crawler():
             # 获取食物名称
             food_name = suop.find('h4').text
             # 获取食物链接
-            food_url = 'http://www.boohee.com' + suop.find('a')['href']
+            food_url = 'http://www.boohee.com' + suop.find('test_1')['href']
             # 获取食物热量
             food_calorie = suop.find('p').text[3:]
             # 将上面获取到的数据进行拼接

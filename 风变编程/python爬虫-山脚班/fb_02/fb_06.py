@@ -8,6 +8,6 @@ html = test.find_all('header',class_='entry-header')
 # print(html)
 for i in html:
     time = i.find('time')
-    link = i.find('a')
+    link = i.find('test_1')
     name = i.find('h2',class_='entry-title')
     print('文章标题:{}\n发布时间:{}\n文章链接:{}\n'.format(name.text,time.text,link['href']))

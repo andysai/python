@@ -28,10 +28,10 @@ def download_movie(movie_name):
     res_movie.encoding = 'gbk'
     suop_movies = BeautifulSoup(res_movie.text,'html.parser').find(class_='co_content8').find_all('table')
     if suop_movies:
-        movie_link = 'https://www.ygdy8.com' + suop_movies[0].find('a')['href']
+        movie_link = 'https://www.ygdy8.com' + suop_movies[0].find('test_1')['href']
         res_movie1 = requests.get(movie_link)
         res_movie1.encoding = 'gbk'
-        movie_download_link = BeautifulSoup(res_movie1.text,'html.parser').find('div',id='Zoom').find('span').find('table').find('a')['href']
+        movie_download_link = BeautifulSoup(res_movie1.text,'html.parser').find('div',id='Zoom').find('span').find('table').find('test_1')['href']
         return movie_name + '的链接为:' + movie_download_link
     else:
         return '没有找到' + movie_name + '的链接'

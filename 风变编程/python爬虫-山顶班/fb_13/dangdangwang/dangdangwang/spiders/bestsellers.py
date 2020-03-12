@@ -16,7 +16,7 @@ class DangdangwangSpider(scrapy.Spider):
         datas = bs4.BeautifulSoup(response.text,'html.parser').find('ul',class_='bang_list clearfix bang_list_mode').find_all('li')
         for data in datas:
             item = DangdangwangItem()
-            item['name'] = data.find('div', class_="name").find('a')['title']
+            item['name'] = data.find('div', class_="name").find('test_1')['title']
             item['author'] = data.find('div', class_="publisher_info").text
             item['price'] = data.find('div', class_="price").find('span', class_="price_n").text
             yield item

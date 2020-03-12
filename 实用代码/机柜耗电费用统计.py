@@ -1,7 +1,7 @@
 import openpyxl
 from openpyxl.styles import Color, Font, Alignment
 
-path = 'test.xlsx'
+path = '../test/test_1/test.xlsx'
 
 file = openpyxl.load_workbook(path)
 sheet = file['19年10月']
@@ -65,4 +65,4 @@ reward_ws.cell(28,2).value = '月度结算费用（含税）'
 
 reward_ws.merge_cells('A30:H31')
 reward_ws.cell(30,1).value = '甲方签字盖章：                                乙方签字盖章：'
-file.save('a/1.xlsx')
+file.save('test_1/1.xlsx')

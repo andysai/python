@@ -17,12 +17,12 @@ suop = BeautifulSoup(res.text,'html.parser')
 html = suop.find_all('div',class_='co_content8')
 if html:
     for web in html:
-        open_web = web.find('a')
+        open_web = web.find('test_1')
         URL = URL_header + open_web['href']
         res = requests.get(URL,headers=headers)
         res.encoding = 'gbk'
         suop = BeautifulSoup(res.text, 'html.parser')
-        html = suop.find('div',id='Zoom').find('span').find('table').find('a')['href']
+        html = suop.find('div',id='Zoom').find('span').find('table').find('test_1')['href']
         print(html)
 else:
     print('没有' + movie_name)

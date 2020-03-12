@@ -31,4 +31,4 @@ for i in data:
     else:
         reward_ws.append(message)
 #    print(name,CPU)
-wb.save('a.xlsx')
+wb.save('test_1.xlsx')

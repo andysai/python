@@ -17,7 +17,7 @@ class DangdangSpider(scrapy.Spider):
         elements = soup.find('ul', class_="bang_list clearfix bang_list_mode").find_all('li')
         for element in elements:
             item = DangdangItem()
-            item['name'] = element.find('div', class_="name").find('a')['title']
+            item['name'] = element.find('div', class_="name").find('test_1')['title']
             item['author'] = element.find('div', class_="publisher_info").text
             item['price'] = element.find('div', class_="price").find('span', class_="price_n").text
             yield item

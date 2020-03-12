@@ -5,7 +5,7 @@ url = 'http://dl.fedoraproject.org/pub/epel/6/x86_64/Packages/e/'
 res = requests.get(url)
 suop = BeautifulSoup(res.text,'html.parser')
 titles = suop.find('pre')
-for title in titles.find_all('a'):
+for title in titles.find_all('test_1'):
     name = title.text
     name_list = ['Name','modified','Size','Description','Parent Directory','Last modified']
     link = title['href']

@@ -36,7 +36,7 @@ for x in range(10):
             i += 1
             if num != '':
                 numbers.append(int(num))
-        movie_link = mes.find('a')
+        movie_link = mes.find('test_1')
         for i in numbers:
             if movie_Rl == None:
                 mess = '序号:{}\n电影名:{}\n上映时间:{}\n评分:{}\n推荐语:{}\n链接:{}\n'.format(movie_number.text,movie_name.text,i,
@@ -44,5 +44,5 @@ for x in range(10):
             else:
                 mess = '序号:{}\n电影名:{}\n上映时间:{}\n评分:{}\n推荐语:{}\n链接:{}\n'.format(movie_number.text, movie_name.text,i,
                                                                  movie_score.text,movie_Rl.text, movie_link['href'])
-        with open('top250_movie.txt','a',encoding='utf-8') as f:
+        with open('top250_movie.txt','test_1',encoding='utf-8') as f:
             f.write(mess)

@@ -10,7 +10,7 @@ for i in range(3):
     res = requests.get(url,headers=headers)
     datas = BeautifulSoup(res.text,'html.parser').find_all('tr',class_="item")
     for data in datas:
-        title = data.find_all('a')[1]['title']
+        title = data.find_all('test_1')[1]['title']
         publish = data.find('p',class_='pl').text
         score = data.find('span',class_='rating_nums').text
         print('书籍名称:{}\n出版信息:{}\n评分:{}\n'.format(title,publish,score))

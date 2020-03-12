@@ -13,8 +13,8 @@ for data in datas:
     company_names = data.find_all('li')
     link_list = []
     for company_name in company_names:
-        name = company_name.find('a')['title']
-        link = 'https://www.jobui.com' + company_name.find('a')['href'] + 'jobs/'
+        name = company_name.find('test_1')['title']
+        link = 'https://www.jobui.com' + company_name.find('test_1')['href'] + 'jobs/'
         #company_list.append(name)
         link_list.append(link)
         for i in link_list:

@@ -17,7 +17,7 @@ for x in range(10):
         movie_name = mes.find('span',class_='title')
         movie_score = mes.find('span',class_='rating_num')
         movie_Rl = mes.find('span',class_='inq')
-        movie_link = mes.find('a')
+        movie_link = mes.find('test_1')
         if movie_Rl == None:
             #print('序号:{}\n电影名:{}\n评分:{}\n推荐语:{}\n链接:{}\n'.format(movie_number.text,movie_name.text,movie_score.text,'',movie_link['href']))
             a_list.append([movie_number.text, movie_name.text, movie_score.text, '', movie_link['href']])

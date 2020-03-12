@@ -11,7 +11,7 @@ class JobuiSpider(scrapy.Spider):
         bs = bs4.BeautifulSoup(response.text, 'html.parser')
         ul_list = bs.find_all('ul',class_="textList flsty cfix")
         for ul in ul_list:
-            a_list = ul.find_all('a')
+            a_list = ul.find_all('test_1')
             for a in a_list:
                 company_id = a['href']
                 url = 'https://www.jobui.com{id}jobs'
@@ -25,7 +25,7 @@ class JobuiSpider(scrapy.Spider):
         for data in datas:
             item = JohuiItem()
             item['company'] = company
-            item['position'] = data.find('h3').find('a').text
+            item['position'] = data.find('h3').find('test_1').text
             item['address'] = data.find('span', class_="col80").text
             item['detail'] = data.find('span', class_="col150").text
             yield item

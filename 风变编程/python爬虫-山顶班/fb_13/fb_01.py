@@ -10,6 +10,6 @@ for i in range(3):
     res = requests.get(url,headers=headers)
     suops = BeautifulSoup(res.text,'html.parser').find_all('td',valign='top')
     for suop in suops:
-        name = suop.find('a').text.strip()
+        name = suop.find('test_1').text.strip()
         message = suop.find('p')
         print(name)

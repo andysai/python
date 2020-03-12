@@ -1,8 +1,8 @@
 import csv
 
 # 调用csv模块
-with open('assets.csv', 'a', newline='') as csvfile:
-    # 调用open()函数打开csv文件，传入参数：文件名“assets.csv”、追加模式“a”、newline=''。
+with open('assets.csv', 'test_1', newline='') as csvfile:
+    # 调用open()函数打开csv文件，传入参数：文件名“assets.csv”、追加模式“test_1”、newline=''。
     writer = csv.writer(csvfile, dialect='excel')
     # 用csv.writer()函数创建一个writer对象。
     header = ['小区名称', '地址', '建筑年份', '楼栋', '单元', '户室', '朝向', '面积']
@@ -64,7 +64,7 @@ while unit_loop:
             # 给字典floor_rooms添加键值对，floor_rooms = {401:[1,80]}
         unit_rooms[floor] = floor_rooms
 
-    with open('assets.csv', 'a', newline='')as csvfile:
+    with open('assets.csv', 'test_1', newline='')as csvfile:
         # Mac用户要加多一个参数 encoding = 'GBK'
         writer = csv.writer(csvfile, dialect='excel')
         for sub_dict in unit_rooms.values():

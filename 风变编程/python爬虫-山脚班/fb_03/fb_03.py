@@ -10,8 +10,8 @@ bs_foods = BeautifulSoup(res_foods.text,'html.parser')
 list_foods = bs_foods.find_all('div',class_='info pure-u')
 # 查找最小父级标签
 
-tag_a = list_foods[0].find('a')
-# 提取第0个父级标签中的<a>标签
+tag_a = list_foods[0].find('test_1')
+# 提取第0个父级标签中的<test_1>标签
 name = tag_a.text[17:-13]
 # 菜名，使用[17:-13]切掉了多余的信息
 URL = 'http://www.xiachufang.com'+tag_a['href']

@@ -16,8 +16,8 @@ list_all = []
 # 创建一个空列表，用于存储信息
 for x in range(len(tag_name)):
 # 启动一个循环，次数等于菜名的数量
-    list_food = [tag_name[x].text[18:-14],tag_name[x].find('a')['href'],tag_ingredients[x].text[1:-1]]
-    # 提取信息，封装为列表。注意此处[18:-14]切片和之前不同，是因为此处使用的是<p>标签，而之前是<a>
+    list_food = [tag_name[x].text[18:-14],tag_name[x].find('test_1')['href'],tag_ingredients[x].text[1:-1]]
+    # 提取信息，封装为列表。注意此处[18:-14]切片和之前不同，是因为此处使用的是<p>标签，而之前是<test_1>
     list_all.append(list_food)
     # 将信息添加进list_all
 print(list_all)

@@ -19,7 +19,7 @@ for x in range(10):
         movie_score = mes.find('span',class_='rating_num')
         movie_Rl = mes.find('span',class_='inq')
         movie_year = mes.find('p',class_="")
-        movie_link = mes.find('a')
+        movie_link = mes.find('test_1')
         l = len(movie_year.text)
 
         numbers = []

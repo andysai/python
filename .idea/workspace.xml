@@ -2,8 +2,60 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_30.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/1.xlsx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2019年11月.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/2019年11月.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/2019年12月.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/2019年12月.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/a.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/a.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/a/1.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/1.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/b.txt" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/b.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/go.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/go.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/tea.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/tea.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_01.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_01.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_02.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_02.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_03.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_03.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_04.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_04.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_05.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_06.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_06.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_07.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_07.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_08.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_08.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_09.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_09.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_10.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_10.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_11.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_11.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_12.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_13.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_13.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_14.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_14.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_15.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_16.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_16.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_17.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_17.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_18.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_18.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_19.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_19.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_20.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_20.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_21.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_21.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_22.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_22.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_23.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_23.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_24.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_24.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_25.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_25.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_26.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_26.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_27.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_27.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_28.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_28.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_29.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_29.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_30.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_1/test_30.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/创建linux用户.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/创建linux用户.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/参数转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/参数转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/房屋分期付款.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/房屋分期付款.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/抽奖.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/抽奖.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/新机房统计.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/新机房统计.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/新机房统计表-20191211.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/新机房统计表-20191211.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/新机房统计表-20191213.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/新机房统计表-20191213.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/新机房统计表.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/新机房统计表.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/机柜耗电费用统计.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/机柜耗电费用统计.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/村上春树合集.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/统计目前空闲资源.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/统计目前空闲资源.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/获取身份证后6位.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/获取身份证后6位.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/获取邮箱@前面的名字.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/获取邮箱@前面的名字.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/获取链接.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/获取链接.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/资源统计-2019-12-02.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/资源统计-2019-12-02.xlsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -161,7 +213,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_28.py" />
+      <option name="SCRIPT_NAME" value="E:\study\python\test\a\test_28.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -183,7 +235,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_30.py" />
+      <option name="SCRIPT_NAME" value="E:\study\python\test\a\test_30.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -282,6 +334,7 @@
       <workItem from="1583996313437" duration="948000" />
       <workItem from="1584002578523" duration="8000" />
       <workItem from="1584004530704" duration="237000" />
+      <workItem from="1584011083747" duration="265000" />
     </task>
     <task id="LOCAL-00031" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573569551618</created>
@@ -669,10 +722,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1057" y="427" key="#Notifications/0.0.2560.1400@0.0.2560.1400" timestamp="1581593222572" />
-    <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1582899255721">
+    <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1584011297709">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1582899255721" />
+    <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
     <state x="928" y="146" key="CommitChangelistDialog2" timestamp="1583997651375">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

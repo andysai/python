@@ -27,7 +27,7 @@ while True:
         actual_time = int((end -start)/60)  # 始末时间相减，从秒换算到分，除以60。
         start_end = start_time + '——' + end_time + '\n'
         # 有了自动记录的始末时间后，记录的代码也需要随之改变。
-        with open('timelog2.txt','a', encoding = 'utf-8') as f:
+        with open('timelog2.txt','test_1', encoding = 'utf-8') as f:
             f.write(task_name + ' 的预计时长为：' + str(task_time) + '分钟\n')
             f.write(task_name + ' 的实际时长为：' + str(actual_time) + '分钟\n')
         again = input('建立一个新任务请按 y, 退出时间日志记录器请按 q：')

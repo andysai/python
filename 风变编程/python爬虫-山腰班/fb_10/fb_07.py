@@ -15,7 +15,7 @@ def get_foods():
     for suop in suops:
         name = suop.find('p').text.strip()
         ing_ellipsis = suop.find('p', class_='ing ellipsis').text.strip()
-        link = 'http://www.xiachufang.com' + suop.find('a')['href']
+        link = 'http://www.xiachufang.com' + suop.find('test_1')['href']
         new_str += '菜谱名称:{}\n材料:{}\n链接:{}\n'.format(name,ing_ellipsis,link)
     return new_str
 

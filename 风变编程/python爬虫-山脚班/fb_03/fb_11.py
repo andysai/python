@@ -18,12 +18,12 @@ urlpart = soup_movie.find(class_="co_content8").find_all('table')
 # print(urlpart)
 
 if urlpart:
-    urlpart = urlpart[0].find('a')['href']
+    urlpart = urlpart[0].find('test_1')['href']
     urlmovie = 'https://www.ygdy8.com/' + urlpart
     res1 = requests.get(urlmovie)
     res1.encoding = 'gbk'
     soup_movie1 = BeautifulSoup(res1.text,'html.parser')
-    urldownload = soup_movie1.find('div',id="Zoom").find('span').find('table').find('a')['href']
+    urldownload = soup_movie1.find('div',id="Zoom").find('span').find('table').find('test_1')['href']
     print(urldownload)
 else:
     print('没有' + movie)

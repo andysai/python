@@ -15,8 +15,8 @@ list_all = []
 
 for food in list_foods:
 
-    tag_a = food.find('a')
-    # 提取第0个父级标签中的<a>标签
+    tag_a = food.find('test_1')
+    # 提取第0个父级标签中的<test_1>标签
     name = tag_a.text[17:-13]
     # 菜名，使用[17:-13]切掉了多余的信息
     URL = 'http://www.xiachufang.com'+tag_a['href']

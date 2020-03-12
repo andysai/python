@@ -72,7 +72,7 @@ for k,p in dictionary.items():
     print(passwd)
 # 修改目录权限
 for e in dictionary.keys():
-    chage = 'chmod a-w /home/' + e
+    chage = 'chmod test_1-w /home/' + e
     #print(chage)
 # 设置磁盘限额容量
 for d in dictionary.keys():

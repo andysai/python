@@ -40,7 +40,7 @@ for i in words['data']:
 
 print('一共测试了{}个单词，你认识的单词有{}个，不认识的单词有{}个。'.format(len(danci),len(words_knows),len(not_knows)))
 # 打印错题集
-with open('cuoti.txt','a',encoding='utf-8') as f:
+with open('cuoti.txt','test_1',encoding='utf-8') as f:
     for i in not_knows:
         if i == None:
             print('你没有不认识的单词')

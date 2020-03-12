@@ -14,7 +14,7 @@ class DoubanSpider(scrapy.Spider):
         datas = bs.find_all('tr',class_='item')
         for data in datas:
             item = Douban1Item()
-            item['title'] = data.find_all('a')[1]['title']
+            item['title'] = data.find_all('test_1')[1]['title']
             item['publish'] = data.find('p',class_='pl').text
             item['score'] = data.find('span',class_='rating_nums').text
             print('书籍名称:{}\n出版信息:{}\n评分:{}\n'.format(item['title'],item['publish'],item['score']))

@@ -14,5 +14,5 @@ print("表达式:",a*b)
 print("字符串:","成功的唯一秘诀--坚持最后一分钟")
 
 # 将输出的内容写入到文件
-fp = open(r'mot.txt','a+')
+fp = open(r'mot.txt','test_1+')
 print("成功的唯一秘诀--坚持最后一分钟",file=fp)
