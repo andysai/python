@@ -1,7 +1,7 @@
-i = 1
-while i < 8:
+i = 7
+while i > 0:
     if i == 4:
         pass
     else:
         print(i)
-    i = i + 1
+    i -= 1
