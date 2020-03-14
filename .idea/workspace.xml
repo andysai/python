@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/Wen-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/cc-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/伍陆柒-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/杨立青-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/杨立青-02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班/阿珂-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/风变-助教/山脚班/Kiki-01.py" beforeDir="false" afterPath="$PROJECT_DIR$/风变-助教/山脚班/Kiki-01.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,29 +64,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.Kiki-01">
-    <configuration name="小猪-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变-助教/山脚班" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/小猪-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="Python.Wen-01">
     <configuration name="茹槿-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -96,28 +79,6 @@
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
       <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/茹槿-01.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="小江-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变-助教/山脚班" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/小江-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -192,6 +153,28 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="阿珂-02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变-助教/山脚班" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/阿珂-02.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="Kiki-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -214,7 +197,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="test_30" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="Wen-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -222,12 +205,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变-助教/山脚班" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\study\python\test\a\test_30.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/Wen-01.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="cc-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变-助教/山脚班" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变-助教/山脚班/cc-01.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -238,11 +243,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.Wen-01" />
+        <item itemvalue="Python.cc-01" />
+        <item itemvalue="Python.阿珂-02" />
         <item itemvalue="Python.Kiki-01" />
         <item itemvalue="Python.茹槿-01" />
-        <item itemvalue="Python.小江-01" />
-        <item itemvalue="Python.小猪-01" />
-        <item itemvalue="Python.test_30" />
       </list>
     </recent_temporary>
   </component>
@@ -328,14 +333,7 @@
       <workItem from="1584004530704" duration="237000" />
       <workItem from="1584011083747" duration="1182000" />
       <workItem from="1584072794036" duration="3725000" />
-      <workItem from="1584151564623" duration="4251000" />
-    </task>
-    <task id="LOCAL-00033" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1573570217248</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1573570217248</updated>
+      <workItem from="1584151564623" duration="9584000" />
     </task>
     <task id="LOCAL-00034" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1573570821935</created>
@@ -673,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1584153166172</updated>
     </task>
-    <option name="localTasksCounter" value="82" />
+    <task id="LOCAL-00082" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584181390208</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1584181390208</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,35 +725,35 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1584153165082">
+    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1584181389180">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="928" y="146" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1583997651375" />
-    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584153165082" />
+    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584181389180" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1583489298589">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583489298589" />
-    <state width="1404" height="332" key="GridCell.Tab.0.bottom" timestamp="1584163866104">
+    <state width="1404" height="332" key="GridCell.Tab.0.bottom" timestamp="1584197347380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1487" height="298" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1584004764353" />
-    <state width="1404" height="332" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584163866104" />
-    <state width="1404" height="332" key="GridCell.Tab.0.center" timestamp="1584163866104">
+    <state width="1404" height="332" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584197347380" />
+    <state width="1404" height="332" key="GridCell.Tab.0.center" timestamp="1584197347380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1487" height="298" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1584004764352" />
-    <state width="1404" height="332" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584163866104" />
-    <state width="1404" height="332" key="GridCell.Tab.0.left" timestamp="1584163866104">
+    <state width="1404" height="332" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584197347380" />
+    <state width="1404" height="332" key="GridCell.Tab.0.left" timestamp="1584197347379">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1487" height="298" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1584004764352" />
-    <state width="1404" height="332" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584163866104" />
-    <state width="1404" height="332" key="GridCell.Tab.0.right" timestamp="1584163866104">
+    <state width="1404" height="332" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584197347379" />
+    <state width="1404" height="332" key="GridCell.Tab.0.right" timestamp="1584197347380">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state width="1487" height="298" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1584004764353" />
-    <state width="1404" height="332" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584163866104" />
+    <state width="1404" height="332" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584197347380" />
     <state width="1404" height="281" key="GridCell.Tab.1.bottom" timestamp="1584152054330">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -774,11 +779,11 @@
     </state>
     <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583889291376" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1583857627695" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1584153173026">
+    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1584181454264">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1583997659875" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1584153173026" />
+    <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1584181454264" />
     <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1583414244605">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -791,10 +796,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="-1" y="408" width="1072" height="978" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1582818623554" />
-    <state x="1486" y="503" width="672" height="678" key="search.everywhere.popup" timestamp="1582898233667">
+    <state x="1486" y="503" width="672" height="678" key="search.everywhere.popup" timestamp="1584189319237">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
-    <state x="1486" y="503" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1582898233667" />
+    <state x="1486" y="503" width="672" height="678" key="search.everywhere.popup/0.0.2560.1400@0.0.2560.1400" timestamp="1584189319237" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/study$hm_30_.coverage" NAME="hm_30_第一个函数 Coverage Results" MODIFIED="1571106748968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
@@ -839,10 +844,12 @@
     <SUITE FILE_PATH="coverage/python$fb_18.coverage" NAME="fb_18 Coverage Results" MODIFIED="1573089140566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/python$test_19.coverage" NAME="test_19 Coverage Results" MODIFIED="1582202718927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_20_01__1_.coverage" NAME="fb_20-01 (1) Coverage Results" MODIFIED="1573271268346" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
+    <SUITE FILE_PATH="coverage/python$_02.coverage" NAME="阿珂-02 Coverage Results" MODIFIED="1584183847406" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变-助教/山脚班" />
     <SUITE FILE_PATH="coverage/python$02_input.coverage" NAME="02_使用input函数输入 Coverage Results" MODIFIED="1582297086158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第三章-Python输入与输出" />
     <SUITE FILE_PATH="coverage/study$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1572662549670" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_24_print.coverage" NAME="hm_24_print函数的结尾 Coverage Results" MODIFIED="1570844223575" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/study$test_10.coverage" NAME="test_10 Coverage Results" MODIFIED="1572697370601" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python$cc_01.coverage" NAME="cc-01 Coverage Results" MODIFIED="1584189250240" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变-助教/山脚班" />
     <SUITE FILE_PATH="coverage/python$test_31.coverage" NAME="test_31 Coverage Results" MODIFIED="1572834013299" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$01_print.coverage" NAME="01_使用print函数输出 Coverage Results" MODIFIED="1582296558711" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第三章-Python输入与输出" />
     <SUITE FILE_PATH="coverage/study$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1572692084822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -886,6 +893,7 @@
     <SUITE FILE_PATH="coverage/python$fb_21.coverage" NAME="fb_21 Coverage Results" MODIFIED="1573297830679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/python$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1580114933960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境" />
     <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03_注释 Coverage Results" MODIFIED="1582297436644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第三章-Python输入与输出" />
+    <SUITE FILE_PATH="coverage/python$Wen_01.coverage" NAME="Wen-01 Coverage Results" MODIFIED="1584197347372" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变-助教/山脚班" />
     <SUITE FILE_PATH="coverage/python$test_34.coverage" NAME="test_34 Coverage Results" MODIFIED="1572840697782" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1573570806960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
   </component>
