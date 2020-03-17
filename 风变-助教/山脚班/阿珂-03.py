@@ -7,7 +7,6 @@ print('平均成绩是:{}'.format(average))
 
 for i in scores:
     if i < average:
-        scores_lower = scores.append(i)
+        scores_lower.append(i)
 
-print(scores_lower)
-#print('低于平均分的有:{}'.format(scores_lower))
+print('低于平均分的有:{}'.format(scores_lower))
