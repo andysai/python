@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_2/1-文件重命名.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -338,6 +335,7 @@
       <workItem from="1584522577542" duration="41000" />
       <workItem from="1584575235285" duration="3335000" />
       <workItem from="1584674166734" duration="606000" />
+      <workItem from="1584794890518" duration="12000" />
     </task>
     <task id="LOCAL-00046" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1575536687018</created>
