@@ -2,9 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_2/test_02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_2/test_03.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班-03-21/启启-01.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -343,21 +340,7 @@
       <workItem from="1584674166734" duration="606000" />
       <workItem from="1584794890518" duration="12000" />
       <workItem from="1584795169773" duration="161000" />
-      <workItem from="1584797115254" duration="4048000" />
-    </task>
-    <task id="LOCAL-00047" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1575599602056</created>
-      <option name="number" value="00047" />
-      <option name="presentableId" value="LOCAL-00047" />
-      <option name="project" value="LOCAL" />
-      <updated>1575599602057</updated>
-    </task>
-    <task id="LOCAL-00048" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1575599880346</created>
-      <option name="number" value="00048" />
-      <option name="presentableId" value="LOCAL-00048" />
-      <option name="project" value="LOCAL" />
-      <updated>1575599880346</updated>
+      <workItem from="1584797115254" duration="4217000" />
     </task>
     <task id="LOCAL-00049" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1575620236142</created>
@@ -688,7 +671,21 @@
       <option name="project" value="LOCAL" />
       <updated>1584795229408</updated>
     </task>
-    <option name="localTasksCounter" value="96" />
+    <task id="LOCAL-00096" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584801829151</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1584801829152</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584801908964</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1584801908964</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -735,11 +732,11 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1584801827904">
+    <state x="1337" y="452" key="CommitChangelistDialog2" timestamp="1584801907870">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="928" y="146" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1584522583121" />
-    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584801827904" />
+    <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1584801907870" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1583489298589">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -789,11 +786,11 @@
     </state>
     <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583889291376" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1584445795785" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1584795237321">
+    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1584801927422">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1584522608948" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1584795237321" />
+    <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1584801927422" />
     <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1583414244605">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
