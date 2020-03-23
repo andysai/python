@@ -1,7 +1,9 @@
 import os
 def open_app(app_dir):
     os.startfile(app_dir)
+    os.startfile(app_dir)
+
 if __name__ == "__main__":
     app_dir = r'D:\Program Files (x86)\Tencent\WeChat\WeChat.exe'
-    for i in range(2):
-        open_app(app_dir)
+    open_app(app_dir)
+
