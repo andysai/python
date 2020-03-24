@@ -29,7 +29,7 @@ class Read_Ex():
             return s
     def read_excel_after_1(self):
         #打开excel表，填写路径
-        book = xlrd.open_workbook("陈子林0322早.xlsx")
+        book = xlrd.open_workbook("陈子林0324下午.xlsx")
         #找到sheet页
         table = book.sheet_by_name("Sheet1")
         #获取总行数总列数
@@ -56,7 +56,7 @@ class Read_Ex():
 
     def read_excel_mon_2(self):
         #打开excel表，填写路径
-        book = xlrd.open_workbook("陈子林0322早.xlsx")
+        book = xlrd.open_workbook("陈子林0324早.xlsx")
         #找到sheet页
         table = book.sheet_by_name("Sheet2")
         #获取总行数总列数
@@ -82,7 +82,7 @@ class Read_Ex():
             return s
     def read_excel_after_2(self):
         #打开excel表，填写路径
-        book = xlrd.open_workbook("陈子林0322早.xlsx")
+        book = xlrd.open_workbook("陈子林0324下午.xlsx")
         #找到sheet页
         table = book.sheet_by_name("Sheet2")
         #获取总行数总列数
@@ -262,17 +262,17 @@ if __name__ == '__main__':
     # 计没有跟上进度的学员的名称
     for j in after:
         if j[data] == 6.0:
-            print('没有完成第三关的人有:' + j['微信id'])
+            print('没有完成第三关的人有:' + j['昵称'])
         elif j[data] == 7.0:
-            print('没有完成第二关的人有:' + j['微信id'])
+            print('没有完成第二关的人有:' + j['昵称'])
         elif j[data] == 8.0:
-                print('没有完成第一关的人有:' + j['微信id'])
+                print('没有完成第一关的人有:' + j['昵称'])
 
     print('\n')
     for j in after1:
         if j[data] == 6.0:
-            print('没有完成第三关的人有:' + j['微信id'])
+            print('没有完成第三关的人有:' + j['昵称'])
         elif j[data] == 7.0:
-            print('没有完成第二关的人有:' + j['微信id'])
+            print('没有完成第二关的人有:' + j['昵称'])
         elif j[data] == 8.0:
-                print('没有完成第一关的人有:' + j['微信id'])
+                print('没有完成第一关的人有:' + j['昵称'])
