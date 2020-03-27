@@ -2,9 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班-03-21/草莽之间-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班-03-21/Yew-01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/风变-助教/山脚班-03-21/一念-02.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实用代码/陈子林.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/陈子林.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实用代码/excle统计关卡.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/excle统计关卡.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +62,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.草莽之间-01">
+  <component name="RunManager" selected="Python.excle统计关卡">
     <configuration name="周一凡-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -262,7 +263,6 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.草莽之间-01" />
         <item itemvalue="Python.微信多开" />
         <item itemvalue="Python.excle统计关卡" />
         <item itemvalue="Python.周一凡-02" />
@@ -376,6 +376,7 @@
       <workItem from="1585139494500" duration="2473000" />
       <workItem from="1585182242576" duration="9603000" />
       <workItem from="1585221734525" duration="1719000" />
+      <workItem from="1585288599618" duration="1825000" />
     </task>
     <task id="LOCAL-00055" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1576139883326</created>

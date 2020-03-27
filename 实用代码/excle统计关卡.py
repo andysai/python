@@ -3,7 +3,7 @@ import xlrd
 class Read_Ex():
     def read_excel_mon_1(self):
         #打开excel表，填写路径
-        book = xlrd.open_workbook("陈子林0326早.xlsx")
+        book = xlrd.open_workbook("陈子林0327早.xlsx")
         #找到sheet页
         table = book.sheet_by_name("Sheet1")
         #获取总行数总列数
@@ -56,7 +56,7 @@ class Read_Ex():
 
     def read_excel_mon_2(self):
         #打开excel表，填写路径
-        book = xlrd.open_workbook("陈子林0326早.xlsx")
+        book = xlrd.open_workbook("陈子林0327早.xlsx")
         #找到sheet页
         table = book.sheet_by_name("Sheet2")
         #获取总行数总列数
