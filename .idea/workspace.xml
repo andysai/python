@@ -2,12 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/10-输入功能实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/11-体验数据类型转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/12-数据类型转换函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/13-总结数据类型的转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/16-算数运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/17-赋值运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/18-复合赋值运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/19-复合赋值注意点.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/20-比较运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/21-逻辑运算符.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/22-逻辑运算符书写习惯.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/23-数字的逻辑运算.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/24-运算符总结.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/09-了解输入.py" beforeDir="false" afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/09-了解输入.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +68,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.12-数据类型转换函数">
+  <component name="RunManager" selected="Python.23-数字的逻辑运算">
     <configuration name="草莽之间-01" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -175,7 +179,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-了解输入" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-复合赋值注意点" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -188,7 +192,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/09-了解输入.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/19-复合赋值注意点.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,7 +201,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="10-输入功能实现" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20-比较运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,7 +214,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/10-输入功能实现.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/20-比较运算符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -219,7 +223,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11-体验数据类型转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21-逻辑运算符" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -232,7 +236,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/11-体验数据类型转换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/21-逻辑运算符.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -241,7 +245,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-数据类型转换函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="22-逻辑运算符书写习惯" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -254,7 +258,7 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/12-数据类型转换函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/22-逻辑运算符书写习惯.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -263,7 +267,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="qq号码获取" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="23-数字的逻辑运算" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -271,12 +275,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/qq号码获取.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02/23-数字的逻辑运算.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -287,11 +291,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.12-数据类型转换函数" />
-        <item itemvalue="Python.11-体验数据类型转换" />
-        <item itemvalue="Python.10-输入功能实现" />
-        <item itemvalue="Python.09-了解输入" />
-        <item itemvalue="Python.qq号码获取" />
+        <item itemvalue="Python.23-数字的逻辑运算" />
+        <item itemvalue="Python.22-逻辑运算符书写习惯" />
+        <item itemvalue="Python.21-逻辑运算符" />
+        <item itemvalue="Python.20-比较运算符" />
+        <item itemvalue="Python.19-复合赋值注意点" />
       </list>
     </recent_temporary>
   </component>
@@ -403,14 +407,7 @@
       <workItem from="1585221734525" duration="1719000" />
       <workItem from="1585288599618" duration="1825000" />
       <workItem from="1585372686440" duration="1563000" />
-      <workItem from="1585553862782" duration="2492000" />
-    </task>
-    <task id="LOCAL-00055" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1576139883326</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1576139883327</updated>
+      <workItem from="1585553862782" duration="5005000" />
     </task>
     <task id="LOCAL-00056" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1576141781914</created>
@@ -748,7 +745,14 @@
       <option name="project" value="LOCAL" />
       <updated>1585203693549</updated>
     </task>
-    <option name="localTasksCounter" value="104" />
+    <task id="LOCAL-00104" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1585556492836</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1585556492837</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -795,50 +799,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="721" y="101" key="CommitChangelistDialog2" timestamp="1585300051549">
+    <state x="721" y="101" key="CommitChangelistDialog2" timestamp="1585556490968">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="101" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585300051549" />
+    <state x="721" y="101" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1585556490968" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585062043854" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1583489298589">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1583489298589" />
-    <state width="1276" height="234" key="GridCell.Tab.0.bottom" timestamp="1585556247007">
+    <state width="1276" height="234" key="GridCell.Tab.0.bottom" timestamp="1585558605598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585556247007" />
+    <state width="1276" height="234" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585558605598" />
     <state width="1660" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585374251693" />
-    <state width="1276" height="234" key="GridCell.Tab.0.center" timestamp="1585556247006">
+    <state width="1276" height="234" key="GridCell.Tab.0.center" timestamp="1585558605598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585556247006" />
+    <state width="1276" height="234" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585558605598" />
     <state width="1660" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585374251693" />
-    <state width="1276" height="234" key="GridCell.Tab.0.left" timestamp="1585556247006">
+    <state width="1276" height="234" key="GridCell.Tab.0.left" timestamp="1585558605597">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585556247006" />
+    <state width="1276" height="234" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585558605597" />
     <state width="1660" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585374251693" />
-    <state width="1276" height="234" key="GridCell.Tab.0.right" timestamp="1585556247007">
+    <state width="1276" height="234" key="GridCell.Tab.0.right" timestamp="1585558605598">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585556247007" />
+    <state width="1276" height="234" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585558605598" />
     <state width="1660" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585374251693" />
-    <state width="1436" height="304" key="GridCell.Tab.1.bottom" timestamp="1584882008582">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1276" height="283" key="GridCell.Tab.1.bottom" timestamp="1585557444853">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1276" height="283" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1585557444853" />
     <state width="1436" height="304" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1436" height="304" key="GridCell.Tab.1.center" timestamp="1584882008582">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1276" height="283" key="GridCell.Tab.1.center" timestamp="1585557444853">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1276" height="283" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1585557444853" />
     <state width="1436" height="304" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1436" height="304" key="GridCell.Tab.1.left" timestamp="1584882008582">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1276" height="283" key="GridCell.Tab.1.left" timestamp="1585557444853">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1276" height="283" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1585557444853" />
     <state width="1436" height="304" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1436" height="304" key="GridCell.Tab.1.right" timestamp="1584882008582">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state width="1276" height="283" key="GridCell.Tab.1.right" timestamp="1585557444853">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state width="1276" height="283" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1585557444853" />
     <state width="1436" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
     <state x="1542" y="615" key="MultipleFileMergeDialog" timestamp="1580053124622">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -849,14 +857,15 @@
     </state>
     <state x="827" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1583889291376" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1584445795785" />
-    <state x="1417" y="594" key="Vcs.Push.Dialog.v2" timestamp="1585483506810">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1585556499143">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585299967723" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1585556499143" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585483506810" />
-    <state x="972" y="527" key="com.intellij.ide.util.TipDialog" timestamp="1583414244605">
-      <screen x="0" y="0" width="2560" height="1400" />
+    <state x="729" y="391" key="com.intellij.ide.util.TipDialog" timestamp="1585557323356">
+      <screen x="0" y="0" width="1920" height="1040" />
     </state>
+    <state x="729" y="391" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1585557323356" />
     <state x="972" y="527" key="com.intellij.ide.util.TipDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1583414244605" />
     <state x="680" y="409" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1584844121795">
       <screen x="0" y="0" width="2560" height="1400" />
@@ -895,11 +904,13 @@
     <SUITE FILE_PATH="coverage/python$test_29.coverage" NAME="test_29 Coverage Results" MODIFIED="1572954903452" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_07.coverage" NAME="fb_07 Coverage Results" MODIFIED="1582896242950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$test_24.coverage" NAME="test_24 Coverage Results" MODIFIED="1582898675804" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python$20_.coverage" NAME="20-比较运算符 Coverage Results" MODIFIED="1585558123447" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$fb_01.coverage" NAME="fb_01 Coverage Results" MODIFIED="1573566970613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
     <SUITE FILE_PATH="coverage/study$hm_31_.coverage" NAME="hm_31_第一个函数改造 Coverage Results" MODIFIED="1571108824968" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$001.coverage" NAME="实例001：数字组合 Coverage Results" MODIFIED="1584269388460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/Python基础训练100题" />
     <SUITE FILE_PATH="coverage/study$hm_06_.coverage" NAME="hm_06_超市买苹果 Coverage Results" MODIFIED="1570766642982" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$fb_18.coverage" NAME="fb_18 Coverage Results" MODIFIED="1573089140566" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
+    <SUITE FILE_PATH="coverage/python$18_.coverage" NAME="18-复合赋值运算符 Coverage Results" MODIFIED="1585557684903" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$test_19.coverage" NAME="test_19 Coverage Results" MODIFIED="1582202718927" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$_02.coverage" NAME="周一凡-02 Coverage Results" MODIFIED="1585196041403" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变-助教/山脚班-03-21" />
     <SUITE FILE_PATH="coverage/python$02_input.coverage" NAME="02_使用input函数输入 Coverage Results" MODIFIED="1582297086158" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第三章-Python输入与输出" />
@@ -915,6 +926,7 @@
     <SUITE FILE_PATH="coverage/python$06__.coverage" NAME="06-输出_转义字符 Coverage Results" MODIFIED="1585122804017" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$fb_16_02.coverage" NAME="fb_16-02 Coverage Results" MODIFIED="1573010813723" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$fb_02_01.coverage" NAME="fb_02-01 Coverage Results" MODIFIED="1573027798993" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
+    <SUITE FILE_PATH="coverage/python$17_.coverage" NAME="17-赋值运算符 Coverage Results" MODIFIED="1585557444837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/study$test.coverage" NAME="test Coverage Results" MODIFIED="1571106596404" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_25.coverage" NAME="fb_25 Coverage Results" MODIFIED="1573021264459" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
     <SUITE FILE_PATH="coverage/python$test_03.coverage" NAME="test_03 Coverage Results" MODIFIED="1584798727510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
@@ -943,6 +955,7 @@
     <SUITE FILE_PATH="coverage/python$test_22.coverage" NAME="test_22 Coverage Results" MODIFIED="1582897111932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$03__.coverage" NAME="03-输出_格式化符号高级使用方法 Coverage Results" MODIFIED="1585122004361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$02__.coverage" NAME="02-输出_格式化符号基础使用方法 Coverage Results" MODIFIED="1585121100009" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
+    <SUITE FILE_PATH="coverage/python$22_.coverage" NAME="22-逻辑运算符书写习惯 Coverage Results" MODIFIED="1585558432437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$hello_world.coverage" NAME="hello world Coverage Results" MODIFIED="1580114933960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境" />
     <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1573570806960" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班" />
     <SUITE FILE_PATH="coverage/python$main.coverage" NAME="main Coverage Results" MODIFIED="1573825840609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
@@ -964,6 +977,7 @@
     <SUITE FILE_PATH="coverage/study$test_08.coverage" NAME="test_08 Coverage Results" MODIFIED="1572682867784" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$main1.coverage" NAME="main1 Coverage Results" MODIFIED="1573826244759" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山顶班/fb_16" />
     <SUITE FILE_PATH="coverage/python$test_30.coverage" NAME="test_30 Coverage Results" MODIFIED="1584004764337" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
+    <SUITE FILE_PATH="coverage/python$23_.coverage" NAME="23-数字的逻辑运算 Coverage Results" MODIFIED="1585558605588" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/study$hm_25_.coverage" NAME="hm_25_打印九九乘法表 Coverage Results" MODIFIED="1570847538233" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1-文件重命名 Coverage Results" MODIFIED="1584581425414" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$fb_24.coverage" NAME="fb_24 Coverage Results" MODIFIED="1573021008356" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山脚班" />
@@ -976,6 +990,7 @@
     <SUITE FILE_PATH="coverage/study$test_09.coverage" NAME="test_09 Coverage Results" MODIFIED="1572692084822" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$test_25.coverage" NAME="test_25 Coverage Results" MODIFIED="1582899301410" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$09_.coverage" NAME="09-了解输入 Coverage Results" MODIFIED="1585554029899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
+    <SUITE FILE_PATH="coverage/python$21_.coverage" NAME="21-逻辑运算符 Coverage Results" MODIFIED="1585558349994" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/study$test_13.coverage" NAME="test_13 Coverage Results" MODIFIED="1572739303422" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="微信多开 Coverage Results" MODIFIED="1585308419689" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/实用代码" />
     <SUITE FILE_PATH="coverage/study$test_07.coverage" NAME="test_07 Coverage Results" MODIFIED="1572666486510" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
@@ -986,11 +1001,13 @@
     <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10-输入功能实现 Coverage Results" MODIFIED="1585554650155" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$test_21.coverage" NAME="test_21 Coverage Results" MODIFIED="1582895597286" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/study$hm_22_continue.coverage" NAME="hm_22_continue Coverage Results" MODIFIED="1570766636938" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
+    <SUITE FILE_PATH="coverage/python$16_.coverage" NAME="16-算数运算符 Coverage Results" MODIFIED="1585557190468" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/study$hm_27_.coverage" NAME="hm_27_转义字符 Coverage Results" MODIFIED="1570847887050" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/01_Python基础" />
     <SUITE FILE_PATH="coverage/python$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1573302883036" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$04.coverage" NAME="04 Coverage Results" MODIFIED="1581051419383" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第二章-熟悉PyCharm开发环境" />
     <SUITE FILE_PATH="coverage/python$fb_15.coverage" NAME="fb_15 Coverage Results" MODIFIED="1573095405528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/python$__01.coverage" NAME="李颜控-东神-01 Coverage Results" MODIFIED="1585136639775" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变-助教/山脚班-03-21" />
+    <SUITE FILE_PATH="coverage/python$19_.coverage" NAME="19-复合赋值注意点 Coverage Results" MODIFIED="1585557906028" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day02" />
     <SUITE FILE_PATH="coverage/python$test_28.coverage" NAME="test_28 Coverage Results" MODIFIED="1583635492916" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test" />
     <SUITE FILE_PATH="coverage/python$fb_21.coverage" NAME="fb_21 Coverage Results" MODIFIED="1573297830679" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python基础-山腰班" />
     <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03_注释 Coverage Results" MODIFIED="1582297436644" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/明日科技/第三章-Python输入与输出" />
