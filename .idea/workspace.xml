@@ -20,13 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/14-列表嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/15-随机分配办公室的步骤分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/17-总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/18-体验元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/19-定义元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/20-元组常见操作之查找.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/21-元组数据的修改操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/01-字典的应用场景.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -330,14 +324,9 @@
       <workItem from="1587716530189" duration="2731000" />
       <workItem from="1587719277102" duration="5000" />
       <workItem from="1587969102176" duration="8059000" />
-      <workItem from="1588228124664" duration="8959000" />
-    </task>
-    <task id="LOCAL-00065" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1580119979533</created>
-      <option name="number" value="00065" />
-      <option name="presentableId" value="LOCAL-00065" />
-      <option name="project" value="LOCAL" />
-      <updated>1580119979533</updated>
+      <workItem from="1588228124664" duration="9442000" />
+      <workItem from="1589766859905" duration="2763000" />
+      <workItem from="1589850078095" duration="708000" />
     </task>
     <task id="LOCAL-00066" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1581002731174</created>
@@ -675,7 +664,14 @@
       <option name="project" value="LOCAL" />
       <updated>1588235783401</updated>
     </task>
-    <option name="localTasksCounter" value="114" />
+    <task id="LOCAL-00114" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1588238611449</created>
+      <option name="number" value="00114" />
+      <option name="presentableId" value="LOCAL-00114" />
+      <option name="project" value="LOCAL" />
+      <updated>1588238611449</updated>
+    </task>
+    <option name="localTasksCounter" value="115" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -721,34 +717,34 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1588235781756">
+    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1588238610140">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588235781756" />
+    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588238610140" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573654781" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1587388155449">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587388155449" />
-    <state width="1276" height="287" key="GridCell.Tab.0.bottom" timestamp="1588238351924">
+    <state width="1276" height="287" key="GridCell.Tab.0.bottom" timestamp="1588238843155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588238843155" />
     <state width="1581" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.center" timestamp="1588238351924">
+    <state width="1276" height="287" key="GridCell.Tab.0.center" timestamp="1588238843155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588238843155" />
     <state width="1581" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.left" timestamp="1588238351924">
+    <state width="1276" height="287" key="GridCell.Tab.0.left" timestamp="1588238843155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588238843155" />
     <state width="1581" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.right" timestamp="1588238351924">
+    <state width="1276" height="287" key="GridCell.Tab.0.right" timestamp="1588238843155">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588238843155" />
     <state width="1581" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
     <state width="1276" height="272" key="GridCell.Tab.1.bottom" timestamp="1587717556041">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -780,11 +776,11 @@
     <state x="1344" y="411" key="SettingsEditor/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388431269" />
     <state x="708" y="181" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587716515713" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587388259780" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1588235791073">
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1588238836373">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388323171" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588235791073" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588238836373" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573664419" />
     <state x="1002" y="451" key="cloudConfig.PluginsDialog" timestamp="1587716675201">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -812,6 +808,10 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="-1" y="408" width="1072" height="978" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1582818623554" />
+    <state x="741" y="311" key="git4idea.merge.GitPullDialog" timestamp="1588238741394">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="741" y="311" key="git4idea.merge.GitPullDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588238741394" />
     <state x="1115" y="374" width="672" height="504" key="search.everywhere.popup" timestamp="1588232188871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
