@@ -20,14 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/14-列表嵌套.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/15-随机分配办公室的步骤分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/17-总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/18-体验元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/19-定义元组.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/20-元组常见操作之查找.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/21-元组数据的修改操作.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/02-创建字典的语法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/03-字典常用操作之新增.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/04-字典常用操作之删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/05-字典常用操作之修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/06-字典常用操作之查找.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/01-字典的应用场景.py" beforeDir="false" afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/01-字典的应用场景.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,8 +83,8 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_13\dangdangwang" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.21-元组数据的修改操作">
-    <configuration name="14-列表嵌套" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.06-字典常用操作之查找">
+    <configuration name="02-创建字典的语法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -93,12 +92,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/14-列表嵌套.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/02-创建字典的语法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -107,7 +106,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15-随机分配办公室的步骤分析" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-字典常用操作之新增" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -115,12 +114,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/15-随机分配办公室的步骤分析.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/03-字典常用操作之新增.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -129,7 +128,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18-体验元组" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-字典常用操作之删除" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -137,12 +136,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/18-体验元组.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/04-字典常用操作之删除.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -151,7 +150,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20-元组常见操作之查找" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-字典常用操作之修改" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -159,12 +158,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/20-元组常见操作之查找.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/05-字典常用操作之修改.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21-元组数据的修改操作" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-字典常用操作之查找" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,12 +180,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06/21-元组数据的修改操作.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07/06-字典常用操作之查找.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -197,11 +196,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.21-元组数据的修改操作" />
-        <item itemvalue="Python.20-元组常见操作之查找" />
-        <item itemvalue="Python.18-体验元组" />
-        <item itemvalue="Python.15-随机分配办公室的步骤分析" />
-        <item itemvalue="Python.14-列表嵌套" />
+        <item itemvalue="Python.06-字典常用操作之查找" />
+        <item itemvalue="Python.05-字典常用操作之修改" />
+        <item itemvalue="Python.04-字典常用操作之删除" />
+        <item itemvalue="Python.03-字典常用操作之新增" />
+        <item itemvalue="Python.02-创建字典的语法" />
       </list>
     </recent_temporary>
   </component>
@@ -331,6 +330,7 @@
       <workItem from="1587719277102" duration="5000" />
       <workItem from="1587969102176" duration="8059000" />
       <workItem from="1588228124664" duration="8959000" />
+      <workItem from="1590022444277" duration="3162000" />
     </task>
     <task id="LOCAL-00065" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1580119979533</created>
@@ -730,25 +730,25 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587388155449" />
-    <state width="1276" height="287" key="GridCell.Tab.0.bottom" timestamp="1588238351924">
+    <state width="1276" height="289" key="GridCell.Tab.0.bottom" timestamp="1590024870820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="289" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1590024870820" />
     <state width="1581" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.center" timestamp="1588238351924">
+    <state width="1276" height="289" key="GridCell.Tab.0.center" timestamp="1590024870820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="289" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1590024870820" />
     <state width="1581" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.left" timestamp="1588238351924">
+    <state width="1276" height="289" key="GridCell.Tab.0.left" timestamp="1590024870820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="289" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1590024870820" />
     <state width="1581" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="287" key="GridCell.Tab.0.right" timestamp="1588238351924">
+    <state width="1276" height="289" key="GridCell.Tab.0.right" timestamp="1590024870820">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="287" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588238351924" />
+    <state width="1276" height="289" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1590024870820" />
     <state width="1581" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
     <state width="1276" height="272" key="GridCell.Tab.1.bottom" timestamp="1587717556041">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -770,21 +770,17 @@
     </state>
     <state width="1276" height="272" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1587717556041" />
     <state width="1436" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state x="1542" y="615" key="MultipleFileMergeDialog" timestamp="1580053124622">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1542" y="615" key="MultipleFileMergeDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1580053124622" />
     <state x="708" y="181" key="SettingsEditor" timestamp="1587716515713">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1344" y="411" key="SettingsEditor/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388431269" />
     <state x="708" y="181" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587716515713" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587388259780" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1588235791073">
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1589857866429">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388323171" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1588235791073" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1589857866429" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573664419" />
     <state x="1002" y="451" key="cloudConfig.PluginsDialog" timestamp="1587716675201">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -804,10 +800,6 @@
     </state>
     <state x="510" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588237218963" />
     <state x="680" y="409" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1584844121795" />
-    <state x="1627" y="817" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1580053111799">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="1627" y="817" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.2560.1400@0.0.2560.1400" timestamp="1580053111799" />
     <state x="-1" y="408" width="1072" height="978" key="dock-window-1" timestamp="1582818623554">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
@@ -823,7 +815,7 @@
     <SUITE FILE_PATH="coverage/python$11_.coverage" NAME="11-列表复制数据 Coverage Results" MODIFIED="1588235344966" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$10___.coverage" NAME="10-字符串常用操作方法之修改(常用) Coverage Results" MODIFIED="1587976390798" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day05" />
     <SUITE FILE_PATH="coverage/python$13_while.coverage" NAME="13-while循环嵌套的作用和语法 Coverage Results" MODIFIED="1587710705773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
-    <SUITE FILE_PATH="coverage/python$05_.coverage" NAME="05-下标 Coverage Results" MODIFIED="1587970801342" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day05" />
+    <SUITE FILE_PATH="coverage/python$05_.coverage" NAME="05-字典常用操作之修改 Coverage Results" MODIFIED="1590023938883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$23_while___else.coverage" NAME="23-while...else Coverage Results" MODIFIED="1587717180975" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$18_.coverage" NAME="18-体验元组 Coverage Results" MODIFIED="1588237704809" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$18_while.coverage" NAME="18-while循环嵌套应用之九九乘法表 Coverage Results" MODIFIED="1587713139605" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
@@ -836,7 +828,7 @@
     <SUITE FILE_PATH="coverage/python$21_continuefor.coverage" NAME="21-continue退出for循环 Coverage Results" MODIFIED="1587716881881" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$15_.coverage" NAME="15-随机分配办公室的步骤分析 Coverage Results" MODIFIED="1588237343257" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$20_breakfor.coverage" NAME="20-break退出for循环 Coverage Results" MODIFIED="1587716772031" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
-    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02-下标 Coverage Results" MODIFIED="1588228812706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+    <SUITE FILE_PATH="coverage/python$02_.coverage" NAME="02-创建字典的语法 Coverage Results" MODIFIED="1590023210598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$damo_03.coverage" NAME="damo_03 Coverage Results" MODIFIED="1587535376152" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$09_.coverage" NAME="09-列表删除数据 Coverage Results" MODIFIED="1588234829740" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$25_while___elsecontinue.coverage" NAME="25-while...else之continue Coverage Results" MODIFIED="1587717830486" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
@@ -846,12 +838,12 @@
     <SUITE FILE_PATH="coverage/python$07_.coverage" NAME="07-体验切片 Coverage Results" MODIFIED="1587974031699" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day05" />
     <SUITE FILE_PATH="coverage/python$21_.coverage" NAME="21-元组数据的修改操作 Coverage Results" MODIFIED="1588238414177" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$13_for.coverage" NAME="13-列表的遍历之for Coverage Results" MODIFIED="1588235762780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
-    <SUITE FILE_PATH="coverage/python$06_.coverage" NAME="06-切片简介 Coverage Results" MODIFIED="1587973225121" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day05" />
+    <SUITE FILE_PATH="coverage/python$06_.coverage" NAME="06-字典常用操作之查找 Coverage Results" MODIFIED="1590024870810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$06_11_100.coverage" NAME="06-循环应用1：1-100累加 Coverage Results" MODIFIED="1587540575941" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$05__.coverage" NAME="05-体验案例-判断是否存在 Coverage Results" MODIFIED="1588232690199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$12_continue.coverage" NAME="12-continue Coverage Results" MODIFIED="1587544987457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$10_.coverage" NAME="10-列表修改数据 Coverage Results" MODIFIED="1588235262065" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
-    <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04-判断是否存在 Coverage Results" MODIFIED="1588232125797" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+    <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04-字典常用操作之删除 Coverage Results" MODIFIED="1590023804932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$damo_02.coverage" NAME="damo_02 Coverage Results" MODIFIED="1587535362182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12-字符串常用操作方法之修改之删除空白字符 Coverage Results" MODIFIED="1587976935528" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day05" />
     <SUITE FILE_PATH="coverage/python$11_break.coverage" NAME="11-break Coverage Results" MODIFIED="1587544456946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
@@ -860,7 +852,7 @@
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="连接数据库 Coverage Results" MODIFIED="1587710126217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$03_while.coverage" NAME="03-while的语法和体验 Coverage Results" MODIFIED="1587539597481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$16_while__.coverage" NAME="16-while循环嵌套应用之打印星号(正方形) Coverage Results" MODIFIED="1587712342288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
-    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03-查找函数 Coverage Results" MODIFIED="1588231561978" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+    <SUITE FILE_PATH="coverage/python$03_.coverage" NAME="03-字典常用操作之新增 Coverage Results" MODIFIED="1590023454742" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$07_11_100.coverage" NAME="07-循环应用1：1-100偶数累加和方法 Coverage Results" MODIFIED="1587540854204" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$19_for.coverage" NAME="19-for循环语法和体验 Coverage Results" MODIFIED="1587716653205" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$damo_01.coverage" NAME="damo_01 Coverage Results" MODIFIED="1587535337083" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
