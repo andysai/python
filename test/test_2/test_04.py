@@ -2,7 +2,7 @@
 height = 168
 
 # 体重
-weight = height - 100 - 5
+weight = height - 105
 
 # 胸围＝身高（厘米）×0.535
 bust = height * 0.535
