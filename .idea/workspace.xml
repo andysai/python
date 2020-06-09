@@ -20,11 +20,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/02-公共操作之运算符乘号.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/03-公共操作之运算符判定数据是否存在.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/04-公共方法之len.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/05-公共方法之del.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/06-公共方法之max和min.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_2/替换符号.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -71,9 +67,6 @@
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\python\test\test_2" />
       <recent name="E:\study\python\实用代码" />
@@ -81,9 +74,12 @@
       <recent name="E:\study\python\明日科技" />
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_13\dangdangwang" />
     </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
+    </key>
   </component>
-  <component name="RunManager" selected="Python.06-公共方法之max和min">
-    <configuration name="02-公共操作之运算符乘号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.替换符号">
+    <configuration name="替换符号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -91,12 +87,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/02-公共操作之运算符乘号.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_2/替换符号.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -195,11 +191,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.替换符号" />
         <item itemvalue="Python.06-公共方法之max和min" />
         <item itemvalue="Python.05-公共方法之del" />
         <item itemvalue="Python.04-公共方法之len" />
         <item itemvalue="Python.03-公共操作之运算符判定数据是否存在" />
-        <item itemvalue="Python.02-公共操作之运算符乘号" />
       </list>
     </recent_temporary>
   </component>
@@ -332,14 +328,8 @@
       <workItem from="1590022444277" duration="3210000" />
       <workItem from="1590538913999" duration="3229000" />
       <workItem from="1590561257702" duration="2176000" />
-      <workItem from="1591319852588" duration="2109000" />
-    </task>
-    <task id="LOCAL-00068" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1581242643027</created>
-      <option name="number" value="00068" />
-      <option name="presentableId" value="LOCAL-00068" />
-      <option name="project" value="LOCAL" />
-      <updated>1581242643027</updated>
+      <workItem from="1591319852588" duration="2311000" />
+      <workItem from="1591690106288" duration="4348000" />
     </task>
     <task id="LOCAL-00069" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1582297659545</created>
@@ -677,7 +667,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591152007226</updated>
     </task>
-    <option name="localTasksCounter" value="117" />
+    <task id="LOCAL-00117" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1591322350354</created>
+      <option name="number" value="00117" />
+      <option name="presentableId" value="LOCAL-00117" />
+      <option name="project" value="LOCAL" />
+      <updated>1591322350354</updated>
+    </task>
+    <option name="localTasksCounter" value="118" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,54 +716,54 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591152005909">
+    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591322348976">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591152005909" />
+    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591322348976" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573654781" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1587388155449">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587388155449" />
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom" timestamp="1591322191081">
+    <state width="1276" height="263" key="GridCell.Tab.0.bottom" timestamp="1591694455024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591322191081" />
+    <state width="1276" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
     <state width="1581" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.center" timestamp="1591322191080">
+    <state width="1276" height="263" key="GridCell.Tab.0.center" timestamp="1591694455024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591322191080" />
+    <state width="1276" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
     <state width="1581" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.left" timestamp="1591322191080">
+    <state width="1276" height="263" key="GridCell.Tab.0.left" timestamp="1591694455024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591322191080" />
+    <state width="1276" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
     <state width="1581" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.right" timestamp="1591322191080">
+    <state width="1276" height="263" key="GridCell.Tab.0.right" timestamp="1591694455024">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591322191080" />
+    <state width="1276" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
     <state width="1581" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="258" key="GridCell.Tab.1.bottom" timestamp="1591321723384">
+    <state width="1276" height="258" key="GridCell.Tab.1.bottom" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591321723384" />
+    <state width="1276" height="258" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1276" height="258" key="GridCell.Tab.1.center" timestamp="1591321723384">
+    <state width="1276" height="258" key="GridCell.Tab.1.center" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="258" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591321723384" />
+    <state width="1276" height="258" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.center/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1276" height="258" key="GridCell.Tab.1.left" timestamp="1591321723383">
+    <state width="1276" height="258" key="GridCell.Tab.1.left" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="258" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591321723383" />
+    <state width="1276" height="258" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.left/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state width="1276" height="258" key="GridCell.Tab.1.right" timestamp="1591321723384">
+    <state width="1276" height="258" key="GridCell.Tab.1.right" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="258" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591321723384" />
+    <state width="1276" height="258" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
     <state x="708" y="181" key="SettingsEditor" timestamp="1587716515713">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -774,11 +771,11 @@
     <state x="1344" y="411" key="SettingsEditor/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388431269" />
     <state x="708" y="181" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587716515713" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587388259780" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591152013157">
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591322361381">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388323171" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591152013157" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591322361381" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573664419" />
     <state x="1002" y="451" key="cloudConfig.PluginsDialog" timestamp="1587716675201">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -798,10 +795,6 @@
     </state>
     <state x="510" y="209" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.1920.1040@0.0.1920.1040" timestamp="1588237218963" />
     <state x="680" y="409" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/0.0.2560.1400@0.0.2560.1400" timestamp="1584844121795" />
-    <state x="-1" y="408" width="1072" height="978" key="dock-window-1" timestamp="1582818623554">
-      <screen x="0" y="0" width="2560" height="1400" />
-    </state>
-    <state x="-1" y="408" width="1072" height="978" key="dock-window-1/0.0.2560.1400@0.0.2560.1400" timestamp="1582818623554" />
     <state x="1115" y="374" width="672" height="504" key="search.everywhere.popup" timestamp="1588232188871">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -831,7 +824,7 @@
     <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04-字典常用操作之删除 Coverage Results" MODIFIED="1590023804932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$11_break.coverage" NAME="11-break Coverage Results" MODIFIED="1587544456946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$20_.coverage" NAME="20-元组常见操作之查找 Coverage Results" MODIFIED="1588238142990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="连接数据库 Coverage Results" MODIFIED="1587710126217" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="替换符号 Coverage Results" MODIFIED="1591694455014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$08_insert.coverage" NAME="08-列表增加数据之insert Coverage Results" MODIFIED="1588233602113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$14_.coverage" NAME="14-集合常见操作之删除数据 Coverage Results" MODIFIED="1590563048901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1591151988395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
