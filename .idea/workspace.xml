@@ -20,8 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_2/替换符号.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_2/MAC地址转换.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_2/test_05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_2/test_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_2/替换符号.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_2/替换符号.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,7 +67,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -78,7 +81,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.替换符号">
+  <component name="RunManager" selected="Python.MAC地址转换 (1)">
     <configuration name="替换符号" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -101,7 +104,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-公共操作之运算符判定数据是否存在" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MAC地址转换 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,12 +112,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/03-公共操作之运算符判定数据是否存在.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_2/MAC地址转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -123,7 +126,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-公共方法之len" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="MAC地址转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -131,12 +134,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/04-公共方法之len.py" />
+      <option name="SCRIPT_NAME" value="D:\study\python\test\test_2\MAC地址转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -145,7 +148,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-公共方法之del" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_05" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -153,12 +156,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/05-公共方法之del.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_2/test_05.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -167,7 +170,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-公共方法之max和min" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="test_06" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,12 +178,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08/06-公共方法之max和min.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_2/test_06.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -191,11 +194,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.MAC地址转换 (1)" />
+        <item itemvalue="Python.test_05" />
+        <item itemvalue="Python.test_06" />
         <item itemvalue="Python.替换符号" />
-        <item itemvalue="Python.06-公共方法之max和min" />
-        <item itemvalue="Python.05-公共方法之del" />
-        <item itemvalue="Python.04-公共方法之len" />
-        <item itemvalue="Python.03-公共操作之运算符判定数据是否存在" />
+        <item itemvalue="Python.MAC地址转换" />
       </list>
     </recent_temporary>
   </component>
@@ -329,14 +332,8 @@
       <workItem from="1590538913999" duration="3229000" />
       <workItem from="1590561257702" duration="2176000" />
       <workItem from="1591319852588" duration="2311000" />
-      <workItem from="1591690106288" duration="4348000" />
-    </task>
-    <task id="LOCAL-00069" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1582297659545</created>
-      <option name="number" value="00069" />
-      <option name="presentableId" value="LOCAL-00069" />
-      <option name="project" value="LOCAL" />
-      <updated>1582297659545</updated>
+      <workItem from="1591690106288" duration="4489000" />
+      <workItem from="1591750356854" duration="15903000" />
     </task>
     <task id="LOCAL-00070" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1582867452683</created>
@@ -674,7 +671,14 @@
       <option name="project" value="LOCAL" />
       <updated>1591322350354</updated>
     </task>
-    <option name="localTasksCounter" value="118" />
+    <task id="LOCAL-00118" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1591694463258</created>
+      <option name="number" value="00118" />
+      <option name="presentableId" value="LOCAL-00118" />
+      <option name="project" value="LOCAL" />
+      <updated>1591694463258</updated>
+    </task>
+    <option name="localTasksCounter" value="119" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,34 +720,34 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591322348976">
+    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591694461691">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591322348976" />
+    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591694461691" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573654781" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1587388155449">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587388155449" />
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom" timestamp="1591694455024">
+    <state width="1276" height="280" key="GridCell.Tab.0.bottom" timestamp="1591771924198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
+    <state width="1276" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
     <state width="1581" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.center" timestamp="1591694455024">
+    <state width="1276" height="280" key="GridCell.Tab.0.center" timestamp="1591771924198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
+    <state width="1276" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
     <state width="1581" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.left" timestamp="1591694455024">
+    <state width="1276" height="280" key="GridCell.Tab.0.left" timestamp="1591771924198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
+    <state width="1276" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
     <state width="1581" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="263" key="GridCell.Tab.0.right" timestamp="1591694455024">
+    <state width="1276" height="280" key="GridCell.Tab.0.right" timestamp="1591771924198">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591694455024" />
+    <state width="1276" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
     <state width="1581" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
     <state width="1276" height="258" key="GridCell.Tab.1.bottom" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -765,17 +769,17 @@
     </state>
     <state width="1276" height="258" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state x="708" y="181" key="SettingsEditor" timestamp="1587716515713">
+    <state x="911" y="199" key="SettingsEditor" timestamp="1591773100520">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1344" y="411" key="SettingsEditor/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388431269" />
-    <state x="708" y="181" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1587716515713" />
+    <state x="911" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591773100520" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587388259780" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591322361381">
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591694588021">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388323171" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591322361381" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591694588021" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573664419" />
     <state x="1002" y="451" key="cloudConfig.PluginsDialog" timestamp="1587716675201">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -804,6 +808,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$27_for___elsebreakcontinue.coverage" NAME="27-for...else之break和continue Coverage Results" MODIFIED="1587718363830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$10___.coverage" NAME="10-字典的循环遍历之键值对(拆包) Coverage Results" MODIFIED="1590543039215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
+    <SUITE FILE_PATH="coverage/python$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1591771693630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$13_while.coverage" NAME="13-while循环嵌套的作用和语法 Coverage Results" MODIFIED="1587710705773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$05_.coverage" NAME="05-字典常用操作之修改 Coverage Results" MODIFIED="1590023938883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$05_del.coverage" NAME="05-公共方法之del Coverage Results" MODIFIED="1591321804778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
@@ -824,7 +829,7 @@
     <SUITE FILE_PATH="coverage/python$04_.coverage" NAME="04-字典常用操作之删除 Coverage Results" MODIFIED="1590023804932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$11_break.coverage" NAME="11-break Coverage Results" MODIFIED="1587544456946" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$20_.coverage" NAME="20-元组常见操作之查找 Coverage Results" MODIFIED="1588238142990" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
-    <SUITE FILE_PATH="coverage/python$.coverage" NAME="替换符号 Coverage Results" MODIFIED="1591694455014" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
+    <SUITE FILE_PATH="coverage/python$.coverage" NAME="替换符号 Coverage Results" MODIFIED="1591759023330" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$08_insert.coverage" NAME="08-列表增加数据之insert Coverage Results" MODIFIED="1588233602113" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$14_.coverage" NAME="14-集合常见操作之删除数据 Coverage Results" MODIFIED="1590563048901" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$test_04.coverage" NAME="test_04 Coverage Results" MODIFIED="1591151988395" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
@@ -845,9 +850,11 @@
     <SUITE FILE_PATH="coverage/python$13_for.coverage" NAME="13-列表的遍历之for Coverage Results" MODIFIED="1588235762780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
     <SUITE FILE_PATH="coverage/python$06_.coverage" NAME="06-字典常用操作之查找 Coverage Results" MODIFIED="1590024870810" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$05__.coverage" NAME="05-体验案例-判断是否存在 Coverage Results" MODIFIED="1588232690199" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day06" />
+    <SUITE FILE_PATH="coverage/python$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1591771204361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$damo_02.coverage" NAME="damo_02 Coverage Results" MODIFIED="1587535362182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12-创建集合 Coverage Results" MODIFIED="1590561509504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1587535923407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_09" />
+    <SUITE FILE_PATH="coverage/python$MAC__1_.coverage" NAME="MAC地址转换 (1) Coverage Results" MODIFIED="1591773149971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$02_value.coverage" NAME="02-字典的循环遍历之value Coverage Results" MODIFIED="1590542648646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$03_while.coverage" NAME="03-while的语法和体验 Coverage Results" MODIFIED="1587539597481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$16_while__.coverage" NAME="16-while循环嵌套应用之打印星号(正方形) Coverage Results" MODIFIED="1587712342288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />

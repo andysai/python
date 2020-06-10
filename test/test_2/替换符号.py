@@ -1,21 +1,25 @@
-a = '88f8.7217.bdd4'
-# 先将.转换成-
-a = a.replace('.','-')
-#print(a)
+# 88f8.7217.bdd4
+# b40b.44ce.69c7
+# mac_address = '88f8.7217.bdd4'
+def mac():
+    mac_address = input('请输入mac地址:')
+    return mac_address
 
-# 将数据转换成列表
-str_1=list(a)
-print(len(str_1))
-# 切换到需要转换的字符
-nPos=str_1.index(a[2])
-str_1.insert(nPos,'-')
+def MAC():
+    mac_address = mac()
+    mac_address = mac_address.replace('.','-')
 
-nPos=str_1.index(a[7])
-str_1.insert(nPos,'-')
+    mac_address_list = []
 
+    for i in mac_address:
+        mac_address_list.append(i)
 
-str_2="".join(str_1)
+    mac_address_list[2:0] = '-'
+    mac_address_list[8:0] = '-'
+    mac_address_list[14:0] = '-'
+    mac_address_str = "".join(str(i) for i in mac_address_list)
 
-# 输出
-print(str_2)
-print(len(str_2))
+    return mac_address_str
+
+a = MAC()
+print(a)
