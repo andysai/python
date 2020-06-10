@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/test/test_2/MAC地址转换.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_2/test_05.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_2/test_06.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/test/test_2/替换符号.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_2/替换符号.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_2/MAC地址转换.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_2/MAC地址转换.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/test/test_2/test_05.py" beforeDir="false" afterPath="$PROJECT_DIR$/test/test_2/test_05.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -70,15 +68,15 @@
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\study\python\test\test_2" />
       <recent name="E:\study\python\实用代码" />
       <recent name="E:\study\python\test\a" />
       <recent name="E:\study\python\明日科技" />
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_13\dangdangwang" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
   <component name="RunManager" selected="Python.MAC地址转换 (1)">
@@ -126,7 +124,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="MAC地址转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="fb_03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,12 +132,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_09" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="D:\study\python\test\test_2\MAC地址转换.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_09/fb_03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,9 +194,9 @@
       <list>
         <item itemvalue="Python.MAC地址转换 (1)" />
         <item itemvalue="Python.test_05" />
+        <item itemvalue="Python.fb_03" />
         <item itemvalue="Python.test_06" />
         <item itemvalue="Python.替换符号" />
-        <item itemvalue="Python.MAC地址转换" />
       </list>
     </recent_temporary>
   </component>
@@ -333,21 +331,7 @@
       <workItem from="1590561257702" duration="2176000" />
       <workItem from="1591319852588" duration="2311000" />
       <workItem from="1591690106288" duration="4489000" />
-      <workItem from="1591750356854" duration="15903000" />
-    </task>
-    <task id="LOCAL-00070" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1582867452683</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1582867452683</updated>
-    </task>
-    <task id="LOCAL-00071" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1582900466176</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1582900466177</updated>
+      <workItem from="1591750356854" duration="22664000" />
     </task>
     <task id="LOCAL-00072" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1582942523528</created>
@@ -678,7 +662,21 @@
       <option name="project" value="LOCAL" />
       <updated>1591694463258</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1591773355916</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1591773355916</updated>
+    </task>
+    <task id="LOCAL-00120" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1591773393102</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1591773393102</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -720,34 +718,34 @@
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1258" y="559" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.2560.1400@0.0.2560.1400" timestamp="1584011297709" />
-    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591694461691">
+    <state x="721" y="82" key="CommitChangelistDialog2" timestamp="1591773391581">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591694461691" />
+    <state x="721" y="82" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1591773391581" />
     <state x="1337" y="452" key="CommitChangelistDialog2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573654781" />
     <state x="1060" y="458" key="FileChooserDialogImpl" timestamp="1587388155449">
       <screen x="0" y="0" width="2560" height="1400" />
     </state>
     <state x="1060" y="458" key="FileChooserDialogImpl/0.0.2560.1400@0.0.2560.1400" timestamp="1587388155449" />
-    <state width="1276" height="280" key="GridCell.Tab.0.bottom" timestamp="1591771924198">
+    <state width="1877" height="398" key="GridCell.Tab.0.bottom" timestamp="1591779863517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="280" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
+    <state width="1877" height="398" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1591779863517" />
     <state width="1581" height="324" key="GridCell.Tab.0.bottom/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="280" key="GridCell.Tab.0.center" timestamp="1591771924198">
+    <state width="1877" height="398" key="GridCell.Tab.0.center" timestamp="1591779863517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="280" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
+    <state width="1877" height="398" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1591779863517" />
     <state width="1581" height="324" key="GridCell.Tab.0.center/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="280" key="GridCell.Tab.0.left" timestamp="1591771924198">
+    <state width="1877" height="398" key="GridCell.Tab.0.left" timestamp="1591779863517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="280" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
+    <state width="1877" height="398" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1591779863517" />
     <state width="1581" height="324" key="GridCell.Tab.0.left/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
-    <state width="1276" height="280" key="GridCell.Tab.0.right" timestamp="1591771924198">
+    <state width="1877" height="398" key="GridCell.Tab.0.right" timestamp="1591779863517">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1276" height="280" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591771924198" />
+    <state width="1877" height="398" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591779863517" />
     <state width="1581" height="324" key="GridCell.Tab.0.right/0.0.2560.1400@0.0.2560.1400" timestamp="1585573683232" />
     <state width="1276" height="258" key="GridCell.Tab.1.bottom" timestamp="1591322398492">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -769,17 +767,17 @@
     </state>
     <state width="1276" height="258" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1591322398492" />
     <state width="1436" height="304" key="GridCell.Tab.1.right/0.0.2560.1400@0.0.2560.1400" timestamp="1584882008582" />
-    <state x="911" y="199" key="SettingsEditor" timestamp="1591773100520">
+    <state x="911" y="199" key="SettingsEditor" timestamp="1591775278974">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1344" y="411" key="SettingsEditor/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388431269" />
-    <state x="911" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591773100520" />
+    <state x="911" y="199" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1591775278974" />
     <state x="1344" y="411" key="SettingsEditor/0.0.2560.1400@0.0.2560.1400" timestamp="1587388259780" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591694588021">
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2" timestamp="1591773396990">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/-3840.0.3840.2120/0.0.2560.1400@0.0.2560.1400" timestamp="1587388323171" />
-    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591694588021" />
+    <state x="1063" y="441" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1591773396990" />
     <state x="1417" y="594" key="Vcs.Push.Dialog.v2/0.0.2560.1400@0.0.2560.1400" timestamp="1585573664419" />
     <state x="1002" y="451" key="cloudConfig.PluginsDialog" timestamp="1587716675201">
       <screen x="0" y="0" width="1920" height="1040" />
@@ -808,7 +806,7 @@
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/python$27_for___elsebreakcontinue.coverage" NAME="27-for...else之break和continue Coverage Results" MODIFIED="1587718363830" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$10___.coverage" NAME="10-字典的循环遍历之键值对(拆包) Coverage Results" MODIFIED="1590543039215" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
-    <SUITE FILE_PATH="coverage/python$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1591771693630" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
+    <SUITE FILE_PATH="coverage/python$test_05.coverage" NAME="test_05 Coverage Results" MODIFIED="1591777773893" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$13_while.coverage" NAME="13-while循环嵌套的作用和语法 Coverage Results" MODIFIED="1587710705773" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$05_.coverage" NAME="05-字典常用操作之修改 Coverage Results" MODIFIED="1590023938883" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$05_del.coverage" NAME="05-公共方法之del Coverage Results" MODIFIED="1591321804778" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day08" />
@@ -853,8 +851,8 @@
     <SUITE FILE_PATH="coverage/python$test_06.coverage" NAME="test_06 Coverage Results" MODIFIED="1591771204361" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$damo_02.coverage" NAME="damo_02 Coverage Results" MODIFIED="1587535362182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$12_.coverage" NAME="12-创建集合 Coverage Results" MODIFIED="1590561509504" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
-    <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1587535923407" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_09" />
-    <SUITE FILE_PATH="coverage/python$MAC__1_.coverage" NAME="MAC地址转换 (1) Coverage Results" MODIFIED="1591773149971" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
+    <SUITE FILE_PATH="coverage/python$fb_03.coverage" NAME="fb_03 Coverage Results" MODIFIED="1591775392592" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/风变编程/python爬虫-山腰班/fb_09" />
+    <SUITE FILE_PATH="coverage/python$MAC__1_.coverage" NAME="MAC地址转换 (1) Coverage Results" MODIFIED="1591779863508" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/test/test_2" />
     <SUITE FILE_PATH="coverage/python$02_value.coverage" NAME="02-字典的循环遍历之value Coverage Results" MODIFIED="1590542648646" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day07" />
     <SUITE FILE_PATH="coverage/python$03_while.coverage" NAME="03-while的语法和体验 Coverage Results" MODIFIED="1587539597481" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />
     <SUITE FILE_PATH="coverage/python$16_while__.coverage" NAME="16-while循环嵌套应用之打印星号(正方形) Coverage Results" MODIFIED="1587712342288" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day04" />

@@ -1,5 +1,7 @@
 import tkinter as tk
 from tkinter import *
+import requests
+from bs4 import BeautifulSoup
 
 # 面向对象的编程思想
 class APP:
@@ -24,7 +26,7 @@ class APP:
         # 自动设置按钮的位置
         self.hi_there = tk.Button(self.frame,
                                   text="转换",
-                                  command=self._introduce)
+                                  command=self.get_organization)
         self.hi_there.pack()
 
         self.listb = Listbox(self.frame,height=2,width=25)
@@ -45,9 +47,33 @@ class APP:
         mac_address_list[8:0] = '-'
         mac_address_list[14:0] = '-'
         mac_address_str = "".join(str(i) for i in mac_address_list).replace('.', '-')
+        return mac_address_str
+        #print(mac_address_str)
+        #self.listb.delete(0)
+        #self.listb.insert(0,self._introduce)
 
-        self.listb.delete(0)
-        self.listb.insert(0,mac_address_str)
+    def get_organization(self):
+        url = 'https://mac.51240.com/' + self._introduce() + '__mac/'
+        print(url)
+        headers = {
+            'user-agent': 'Mozilla / 5.0(Windows NT 10.0;WOW64) AppleWebKit / 537.36(KHTML, likeGecko) Chrome / 70.0.3538.25Safari / 537.36Core / 1.70.3741.400QQBrowser / 10.5.3863.400'
+            # 标记了请求从什么设备，什么浏览器上发出
+        }
+        res = requests.get(url, headers=headers)
+        mes = res.status_code  # 查看网页状态
+        suop = BeautifulSoup(res.text, 'html.parser')
+        web = suop.find_all('tr')
+        message = []
+        for tr in web:
+            num = tr.find('td', bgcolor='#FFFFFF').text
+            if num not in message:
+                message.append(num)
+        print(message)
+        #return f'mac地址为:{message[0]}\n组织名称为:{message[1]}'
+
+        #self.listb.delete(0)
+        #self.listb.insert(0,self.get_organization)
+
 
 def main():
     window = tk.Tk()
@@ -59,3 +85,4 @@ def main():
 
 if __name__ == '__main__':
     main()
+
