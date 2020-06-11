@@ -9,7 +9,6 @@ class APP:
         # 自动选定大小与位置
         self.frame = tk.Frame(master)
         self.frame.pack()
-
         # 窗口内容设置
         l = tk.Label(self.frame,
                      text='欢迎使用MAC地址转换工具',  # 标签的文字
@@ -29,8 +28,9 @@ class APP:
                                   command=self.get_organization)
         self.hi_there.pack()
 
-        self.listb = Listbox(self.frame,height=2,width=25)
+        self.listb = Listbox(self.frame,selectmode=MULTIPLE,height=3,width=25)
         self.listb.pack()
+
 
     def getuser(self):
         return self.user_text.get()
@@ -54,7 +54,6 @@ class APP:
 
     def get_organization(self):
         url = 'https://mac.51240.com/' + self._introduce() + '__mac/'
-        print(url)
         headers = {
             'user-agent': 'Mozilla / 5.0(Windows NT 10.0;WOW64) AppleWebKit / 537.36(KHTML, likeGecko) Chrome / 70.0.3538.25Safari / 537.36Core / 1.70.3741.400QQBrowser / 10.5.3863.400'
             # 标记了请求从什么设备，什么浏览器上发出
@@ -68,15 +67,16 @@ class APP:
             num = tr.find('td', bgcolor='#FFFFFF').text
             if num not in message:
                 message.append(num)
-        print(message)
-        #return f'mac地址为:{message[0]}\n组织名称为:{message[1]}'
-
+        organization_name = message[1]
+        #return organization_name
+        print(organization_name)
         #self.listb.delete(0)
-        #self.listb.insert(0,self.get_organization)
+        self.listb.insert(0,self.get_organization)
 
 
 def main():
     window = tk.Tk()
+
     window.title('MAC地址转换')
     window.geometry('250x250')
     app = APP(window)

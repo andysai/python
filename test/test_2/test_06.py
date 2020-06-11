@@ -1,15 +1,16 @@
-import tkinter
-from tkinter.scrolledtext import *
-import pandas as pd
-import numpy as np
+from tkinter import *
 
-s = pd.Series(np.random.randn(5), index=['a', 'b', 'c', 'd', 'e'])
+root=Tk()
+v=StringVar()
 
+lb=Listbox(root,listvariable=v)
+for item in ['python','tkinter','widget']:
+    lb.insert(END,item)
 
-root = tkinter.Tk(className=" Another way to create a Scrollable text area")
-textPad = ScrolledText(root, width=50, height=40)
+lb.insert(ACTIVE,'linux','windows','unix')
+print(v.get())
+v.set(('1000','200'))
 
-textPad.insert(tkinter.constants.END, chars = str(s))
-textPad.pack()
+lb.pack()
 
 root.mainloop()
