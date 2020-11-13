@@ -13,8 +13,12 @@ PE30 = round(PE5 + PE5 * 0.30,1)
 
 # 判断是否止盈止损
 if PE <= PE5 :
+    print("50%的市盈率上浮15%为:", PE15)
+    print("50%的市盈率上浮30%为:" , PE30)
     print("继续定投")
 elif PE > PE5 and PE <= PE15 :
+    print("50%的市盈率上浮15%为:", PE15)
+    print("50%的市盈率上浮30%为:" , PE30)
     print("如果你是保守型投资者，建议赎回止盈，如果你是激进型，建议暂停定投，继续持有")
 elif PE >= PE15 and PE <= PE30 :
     print("赎回止盈")
