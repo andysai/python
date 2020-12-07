@@ -20,11 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/理财/中证500市盈率.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/理财/全指金融市盈率.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/理财/调取市盈率信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/test/test_2/get-movie.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/学神IT/proc目录监控数据采集分析.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/理财/计算市盈率PE.py" beforeDir="false" afterPath="$PROJECT_DIR$/理财/计算市盈率PE.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,7 +79,7 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.调取市盈率信息">
+  <component name="RunManager" selected="Python.get-movie">
     <configuration name="全指金融市盈率" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -147,27 +145,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="调取市盈率信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/理财" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/理财/调取市盈率信息.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="计算市盈率PE" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -189,10 +166,51 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="调取市盈率信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/理财" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/理财/调取市盈率信息.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="get-movie" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/test/test_2" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test/test_2/get-movie.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.调取市盈率信息" />
-        <item itemvalue="Python.全指金融市盈率计算" />
+        <item itemvalue="Python.get-movie" />
         <item itemvalue="Python.计算市盈率PE" />
         <item itemvalue="Python.05-多函数执行流程" />
         <item itemvalue="Python.04-修改全局变量" />
@@ -340,13 +358,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00082" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1584181390208</created>
-      <option name="number" value="00082" />
-      <option name="presentableId" value="LOCAL-00082" />
-      <option name="project" value="LOCAL" />
-      <updated>1584181390208</updated>
     </task>
     <task id="LOCAL-00083" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1584197632869</created>
@@ -684,7 +695,14 @@
       <option name="project" value="LOCAL" />
       <updated>1604545446585</updated>
     </task>
-    <option name="localTasksCounter" value="131" />
+    <task id="LOCAL-00131" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1605251344753</created>
+      <option name="number" value="00131" />
+      <option name="presentableId" value="LOCAL-00131" />
+      <option name="project" value="LOCAL" />
+      <updated>1605251344753</updated>
+    </task>
+    <option name="localTasksCounter" value="132" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -726,45 +744,50 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="738" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1604539412315" />
-    <state width="1342" height="292" key="GridCell.Tab.0.bottom" timestamp="1605248071731">
+    <state width="1342" height="292" key="GridCell.Tab.0.bottom" timestamp="1606439914445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="292" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605248071731" />
-    <state width="1342" height="292" key="GridCell.Tab.0.center" timestamp="1605248071731">
+    <state width="1342" height="263" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state width="1342" height="292" key="GridCell.Tab.0.bottom/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606439914445" />
+    <state width="1342" height="292" key="GridCell.Tab.0.center" timestamp="1606439914445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="292" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605248071731" />
-    <state width="1342" height="292" key="GridCell.Tab.0.left" timestamp="1605248071731">
+    <state width="1342" height="263" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384479" />
+    <state width="1342" height="292" key="GridCell.Tab.0.center/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606439914445" />
+    <state width="1342" height="292" key="GridCell.Tab.0.left" timestamp="1606439914444">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="292" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605248071731" />
-    <state width="1342" height="292" key="GridCell.Tab.0.right" timestamp="1605248071731">
+    <state width="1342" height="263" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384479" />
+    <state width="1342" height="292" key="GridCell.Tab.0.left/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606439914444" />
+    <state width="1342" height="292" key="GridCell.Tab.0.right" timestamp="1606439914445">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="292" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605248071731" />
-    <state width="1342" height="263" key="GridCell.Tab.1.bottom" timestamp="1605247063928">
+    <state width="1342" height="263" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state width="1342" height="292" key="GridCell.Tab.0.right/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606439914445" />
+    <state width="1342" height="263" key="GridCell.Tab.1.bottom" timestamp="1605251384480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605247063928" />
-    <state width="1342" height="263" key="GridCell.Tab.1.center" timestamp="1605247063927">
+    <state width="1342" height="263" key="GridCell.Tab.1.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state width="1342" height="263" key="GridCell.Tab.1.center" timestamp="1605251384480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605247063927" />
-    <state width="1342" height="263" key="GridCell.Tab.1.left" timestamp="1605247063927">
+    <state width="1342" height="263" key="GridCell.Tab.1.center/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state width="1342" height="263" key="GridCell.Tab.1.left" timestamp="1605251384480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605247063927" />
-    <state width="1342" height="263" key="GridCell.Tab.1.right" timestamp="1605247063928">
+    <state width="1342" height="263" key="GridCell.Tab.1.left/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state width="1342" height="263" key="GridCell.Tab.1.right" timestamp="1605251384480">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1342" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605247063928" />
-    <state x="461" y="164" key="SettingsEditor" timestamp="1605057810525">
+    <state width="1342" height="263" key="GridCell.Tab.1.right/0.0.1920.1040@0.0.1920.1040" timestamp="1605251384480" />
+    <state x="461" y="164" key="SettingsEditor" timestamp="1606198117331">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="164" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1605057810525" />
-    <state x="627" y="327" key="Vcs.Push.Dialog.v2" timestamp="1604545468980">
+    <state x="461" y="164" key="SettingsEditor/1920.0.1920.1040/0.0.1920.1040@0.0.1920.1040" timestamp="1606198117331" />
+    <state x="627" y="327" key="Vcs.Push.Dialog.v2" timestamp="1605251352096">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="627" y="327" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1604545468980" />
+    <state x="627" y="327" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605251352096" />
   </component>
 </project>
