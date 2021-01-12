@@ -20,15 +20,18 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/03-访问模式特点.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/04-访问模式特点02.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/05-读取函数之read.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/06-读取函数之readlines.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/07-读取函数之readline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/08-访问模式特点02之代码测试.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/09-seek函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/10-文件备份的作用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/11-文件备份思路分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/12-文件备份之接收用户输入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/13-件备份之规划文件名.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/14-文件备份之写入数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/15-文件备份之限制有效文件名备份.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/16-文件操作函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/17-文件夹操作函数之创建和删除.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/18-文件夹操作函数之路径相关函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/19-文件夹操作函数之rename.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/20-批量重命名之添加字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/21-批量重命名之添加和删除字符串.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/22-文件总结.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/sound.mp3" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,8 +99,8 @@
       <recent name="E:\study\python\明日科技" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.09-seek函数">
-    <configuration name="05-读取函数之read" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.21-批量重命名之添加和删除字符串">
+    <configuration name="17-文件夹操作函数之创建和删除" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -109,7 +112,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/05-读取函数之read.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/17-文件夹操作函数之创建和删除.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -118,7 +121,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-读取函数之readlines" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="18-文件夹操作函数之路径相关函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -130,7 +133,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/06-读取函数之readlines.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/18-文件夹操作函数之路径相关函数.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -139,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-读取函数之readline" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="19-文件夹操作函数之rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -151,7 +154,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/07-读取函数之readline.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/19-文件夹操作函数之rename.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="08-访问模式特点02之代码测试" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="20-批量重命名之添加字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -172,7 +175,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/08-访问模式特点02之代码测试.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/20-批量重命名之添加字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="09-seek函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="21-批量重命名之添加和删除字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -193,7 +196,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/09-seek函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/21-批量重命名之添加和删除字符串.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -204,11 +207,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.09-seek函数" />
-        <item itemvalue="Python.08-访问模式特点02之代码测试" />
-        <item itemvalue="Python.07-读取函数之readline" />
-        <item itemvalue="Python.06-读取函数之readlines" />
-        <item itemvalue="Python.05-读取函数之read" />
+        <item itemvalue="Python.21-批量重命名之添加和删除字符串" />
+        <item itemvalue="Python.20-批量重命名之添加字符串" />
+        <item itemvalue="Python.19-文件夹操作函数之rename" />
+        <item itemvalue="Python.18-文件夹操作函数之路径相关函数" />
+        <item itemvalue="Python.17-文件夹操作函数之创建和删除" />
       </list>
     </recent_temporary>
   </component>
@@ -353,13 +356,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00090" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1584433938220</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1584433938220</updated>
     </task>
     <task id="LOCAL-00091" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1584445954223</created>
@@ -697,7 +693,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610324304020</updated>
     </task>
-    <option name="localTasksCounter" value="139" />
+    <task id="LOCAL-00139" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1610349092923</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1610349092924</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
