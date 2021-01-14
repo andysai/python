@@ -1,5 +1,4 @@
 # 需求:通过信息节点或端口号判断网线在交换机的哪个端口
-
 # 2.1 信息节点查询端口
 def Query_information():
     Information_point = int(input("请输入信息节点:"))

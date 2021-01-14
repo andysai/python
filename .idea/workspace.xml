@@ -20,8 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习01.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习02.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习03.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习04.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习05.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/tk模块/tk模块学习08.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/实用代码/信息节点端口查询-V2.0.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/实用代码/信息节点查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/信息节点查询.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/实用代码/信息节点查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/实用代码/信息节点端口查询-V1.0.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -67,7 +74,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/实用代码/tk模块" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -78,18 +85,20 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\study\python\实用代码\tk模块" />
+      <recent name="D:\study\python\实用代码" />
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\study\python\实用代码\tk模块" />
       <recent name="D:\study\python\实用代码" />
       <recent name="D:\study\python\test\test_2" />
       <recent name="E:\study\python\实用代码" />
       <recent name="E:\study\python\test\a" />
-      <recent name="E:\study\python\明日科技" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.信息节点查询">
-    <configuration name="信息节点查询" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.信息节点端口查询-V2.0">
+    <configuration name="信息节点端口查询-V2.0" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -101,7 +110,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/信息节点查询.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/信息节点端口查询-V2.0.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -110,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="18-文件夹操作函数之路径相关函数" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tk模块学习02" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -118,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/tk模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/18-文件夹操作函数之路径相关函数.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/tk模块/tk模块学习02.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -131,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="19-文件夹操作函数之rename" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tk模块学习03" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -139,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/tk模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/19-文件夹操作函数之rename.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/tk模块/tk模块学习03.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -152,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="20-批量重命名之添加字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tk模块学习04" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -160,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/tk模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/20-批量重命名之添加字符串.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/tk模块/tk模块学习04.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -173,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="21-批量重命名之添加和删除字符串" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="tk模块学习08" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -181,11 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/tk模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day13/21-批量重命名之添加和删除字符串.py" />
+      <option name="SCRIPT_NAME" value="D:\study\python\实用代码\tk模块\tk模块学习08.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -196,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.信息节点查询" />
-        <item itemvalue="Python.21-批量重命名之添加和删除字符串" />
-        <item itemvalue="Python.20-批量重命名之添加字符串" />
-        <item itemvalue="Python.19-文件夹操作函数之rename" />
-        <item itemvalue="Python.18-文件夹操作函数之路径相关函数" />
+        <item itemvalue="Python.信息节点端口查询-V2.0" />
+        <item itemvalue="Python.tk模块学习02" />
+        <item itemvalue="Python.tk模块学习04" />
+        <item itemvalue="Python.tk模块学习03" />
+        <item itemvalue="Python.tk模块学习08" />
       </list>
     </recent_temporary>
   </component>
@@ -345,13 +354,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00092" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1584446431562</created>
-      <option name="number" value="00092" />
-      <option name="presentableId" value="LOCAL-00092" />
-      <option name="project" value="LOCAL" />
-      <updated>1584446431562</updated>
     </task>
     <task id="LOCAL-00093" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1584448800291</created>
@@ -689,7 +691,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610425096647</updated>
     </task>
-    <option name="localTasksCounter" value="141" />
+    <task id="LOCAL-00141" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1610435873806</created>
+      <option name="number" value="00141" />
+      <option name="presentableId" value="LOCAL-00141" />
+      <option name="project" value="LOCAL" />
+      <updated>1610435873806</updated>
+    </task>
+    <option name="localTasksCounter" value="142" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
