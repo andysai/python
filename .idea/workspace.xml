@@ -20,21 +20,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/01-了解继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/02-拓展经典类和新式类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/03-体验继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/04-单继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/05-多继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/06-子类重写父类同名属性和方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/07-拓展_mro顺序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/08-子类调用父类同名属性和方法之思路分析.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/09-子类调用父类同名属性和方法之代码实现.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/10-多层继承.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/11-super()方法作用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/12-super()方法写法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/13-定义私有属性和方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/14-获取和修改私有属性值.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/15-继承总结.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/01-了解面向对象的三大特性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/02-了解多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/03-体验多态思路分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/04-代码实现多态.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/05-设置和访问类属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/06-修改类属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/07-类方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/08-静态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/09-面向对象其他总结.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -104,8 +98,8 @@
       <recent name="E:\study\python\test\a" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.14-获取和修改私有属性值">
-    <configuration name="10-多层继承" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.08-静态方法">
+    <configuration name="04-代码实现多态" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -113,11 +107,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/10-多层继承.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/04-代码实现多态.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -126,7 +120,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="11-super()方法作用" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-设置和访问类属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -134,11 +128,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/11-super()方法作用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/05-设置和访问类属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -147,7 +141,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="12-super()方法写法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-修改类属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -155,11 +149,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/12-super()方法写法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/06-修改类属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -168,7 +162,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="13-定义私有属性和方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-类方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -176,11 +170,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/13-定义私有属性和方法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/07-类方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -189,7 +183,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="14-获取和修改私有属性值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-静态方法" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -197,11 +191,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day15/14-获取和修改私有属性值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day16/08-静态方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -212,11 +206,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.14-获取和修改私有属性值" />
-        <item itemvalue="Python.13-定义私有属性和方法" />
-        <item itemvalue="Python.12-super()方法写法" />
-        <item itemvalue="Python.11-super()方法作用" />
-        <item itemvalue="Python.10-多层继承" />
+        <item itemvalue="Python.08-静态方法" />
+        <item itemvalue="Python.07-类方法" />
+        <item itemvalue="Python.06-修改类属性" />
+        <item itemvalue="Python.05-设置和访问类属性" />
+        <item itemvalue="Python.04-代码实现多态" />
       </list>
     </recent_temporary>
   </component>
@@ -361,13 +355,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00096" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1584801829151</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1584801829152</updated>
     </task>
     <task id="LOCAL-00097" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1584801908964</created>
@@ -705,7 +692,14 @@
       <option name="project" value="LOCAL" />
       <updated>1610932995557</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1610940300461</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1610940300461</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
