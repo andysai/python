@@ -20,10 +20,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/03-准备程序文件.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/StudentManagerSystem/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/StudentManagerSystem/managerSystem.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/StudentManagerSystem/student.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/02-导入模块之方法一.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/03-导入模块之方法二.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/04-导入模块之方法三.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/05-定义别名.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-14_8_08___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021-01-14_8_08___Default_Changelist_.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -86,36 +88,15 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\study\python\黑马程序员-python\python从0开始学编程\day19" />
       <recent name="D:\study\python\实用代码\tk模块" />
       <recent name="D:\study\python\实用代码" />
       <recent name="D:\study\python\test\test_2" />
       <recent name="E:\study\python\实用代码" />
+      <recent name="E:\study\python\test\a" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01-章节介绍">
-    <configuration name="01-章节介绍" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/01-章节介绍.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="13-all列表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.05-定义别名">
+    <configuration name="02-导入模块之方法一" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -127,7 +108,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/13-all列表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/02-导入模块之方法一.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -136,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="15-制作包" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-导入模块之方法二 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -148,7 +129,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/15-制作包.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/03-导入模块之方法二.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -157,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="16-导入包之方法一" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-导入模块之方法二" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -169,7 +150,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/16-导入包之方法一.py" />
+      <option name="SCRIPT_NAME" value="E:\study\python\黑马程序员-python\python从0开始学编程\day18\03-导入模块之方法二.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -178,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="17-导入包之方法二" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-导入模块之方法三" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -190,7 +171,28 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/17-导入包之方法二.py" />
+      <option name="SCRIPT_NAME" value="E:\study\python\黑马程序员-python\python从0开始学编程\day18\04-导入模块之方法三.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="05-定义别名" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day18/05-定义别名.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -201,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.01-章节介绍" />
-        <item itemvalue="Python.16-导入包之方法一" />
-        <item itemvalue="Python.17-导入包之方法二" />
-        <item itemvalue="Python.15-制作包" />
-        <item itemvalue="Python.13-all列表" />
+        <item itemvalue="Python.05-定义别名" />
+        <item itemvalue="Python.03-导入模块之方法二 (1)" />
+        <item itemvalue="Python.04-导入模块之方法三" />
+        <item itemvalue="Python.03-导入模块之方法二" />
+        <item itemvalue="Python.02-导入模块之方法一" />
       </list>
     </recent_temporary>
   </component>
@@ -350,6 +352,55 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
+    </task>
+    <task id="LOCAL-00095" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584795229407</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1584795229408</updated>
+    </task>
+    <task id="LOCAL-00096" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584801829151</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1584801829152</updated>
+    </task>
+    <task id="LOCAL-00097" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584801908964</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1584801908964</updated>
+    </task>
+    <task id="LOCAL-00098" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584801946814</created>
+      <option name="number" value="00098" />
+      <option name="presentableId" value="LOCAL-00098" />
+      <option name="project" value="LOCAL" />
+      <updated>1584801946815</updated>
+    </task>
+    <task id="LOCAL-00099" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584877983041</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1584877983042</updated>
+    </task>
+    <task id="LOCAL-00100" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1584976475077</created>
+      <option name="number" value="00100" />
+      <option name="presentableId" value="LOCAL-00100" />
+      <option name="project" value="LOCAL" />
+      <updated>1584976475077</updated>
+    </task>
+    <task id="LOCAL-00101" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1585062045464</created>
+      <option name="number" value="00101" />
+      <option name="presentableId" value="LOCAL-00101" />
+      <option name="project" value="LOCAL" />
+      <updated>1585062045465</updated>
     </task>
     <task id="LOCAL-00102" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1585128298854</created>
@@ -639,62 +690,13 @@
       <updated>1610611003081</updated>
     </task>
     <task id="LOCAL-00143" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1610613990245</created>
+      <created>1610772330646</created>
       <option name="number" value="00143" />
       <option name="presentableId" value="LOCAL-00143" />
       <option name="project" value="LOCAL" />
-      <updated>1610613990245</updated>
+      <updated>1610772330646</updated>
     </task>
-    <task id="LOCAL-00144" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1610932995557</created>
-      <option name="number" value="00144" />
-      <option name="presentableId" value="LOCAL-00144" />
-      <option name="project" value="LOCAL" />
-      <updated>1610932995557</updated>
-    </task>
-    <task id="LOCAL-00145" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611024611629</created>
-      <option name="number" value="00145" />
-      <option name="presentableId" value="LOCAL-00145" />
-      <option name="project" value="LOCAL" />
-      <updated>1611024611629</updated>
-    </task>
-    <task id="LOCAL-00146" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611044222519</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1611044222519</updated>
-    </task>
-    <task id="LOCAL-00147" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611101608657</created>
-      <option name="number" value="00147" />
-      <option name="presentableId" value="LOCAL-00147" />
-      <option name="project" value="LOCAL" />
-      <updated>1611101608657</updated>
-    </task>
-    <task id="LOCAL-00148" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110200402</created>
-      <option name="number" value="00148" />
-      <option name="presentableId" value="LOCAL-00148" />
-      <option name="project" value="LOCAL" />
-      <updated>1611110200402</updated>
-    </task>
-    <task id="LOCAL-00149" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110263894</created>
-      <option name="number" value="00149" />
-      <option name="presentableId" value="LOCAL-00149" />
-      <option name="project" value="LOCAL" />
-      <updated>1611110263894</updated>
-    </task>
-    <task id="LOCAL-00150" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110662358</created>
-      <option name="number" value="00150" />
-      <option name="presentableId" value="LOCAL-00150" />
-      <option name="project" value="LOCAL" />
-      <updated>1611110662358</updated>
-    </task>
-    <option name="localTasksCounter" value="151" />
+    <option name="localTasksCounter" value="144" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
