@@ -11,7 +11,7 @@ class StudentManager(object):
             # 2 显示功能菜单
             self.show_menu()
             # 3 用户输入目标功能序号
-            menu_num = int(input('请输入您需要的功能序号:'))
+            menu_num = int(input('请输入您需要的功能序号(1-7):'))
 
             # 4 根据用户输入的序号执行不同的功能
             if menu_num == 1:
