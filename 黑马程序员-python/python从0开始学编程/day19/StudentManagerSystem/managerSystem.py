@@ -1,3 +1,5 @@
+from student import *
+
 class StudentManager(object):
     def __init__(self):
         # 存储学员数据 -- 列表
@@ -53,28 +55,103 @@ class StudentManager(object):
 
     # 2.2 添加学员
     def add_student(self):
-        print('添加学员')
+        # 1 用户输入姓名、性别、手机号
+        name = input('请输入您的姓名:')
+        gender = input('请输入您的性别:')
+        tel = input('请输入您的手机号:')
+
+        # 2 创建该学员对象 -- 类？类在student文件里面 先导入student模块，再创建对象
+        student = Student(name, gender, tel)
+
+        # 3 将该学员对象添加到列表
+        self.student_list.append(student)
+
+        # 测试
+        # print(self.student_list)
+        # print(student)
 
     # 2.3 删除学员
     def del_student(self):
-        print('删除学员')
+        # 1 用户输入目标学员姓名
+        del_name = input('请输入需要删除的学员姓名:')
+
+        # 2 遍历学员数据列表，如果用户输入的学员姓名存在则删除，否则则提示该学员不存在
+        for i in self.student_list:
+            if del_name == i.name:
+                # 删除该学员对象
+                self.student_list.remove(i)
+                break
+        else:
+            # 循环正常结束执行的代码，循环结束都没有删除任何一个对象，所以说明用户输入的目标学员不存在
+            print('查无此人')
+
+        # 测试
+        # print(self.student_list)
 
     # 2.4 修改学员信息
     def modify_student(self):
-        print('修改学员信息')
+        # 1 用户输入目标学员姓名
+        modify_name = input('请输入需要修改的学员姓名:')
+        # 2 遍历数据列表，如果学员姓名存在则修改学员的姓名、性别、手机号数据，否则则提示该学员不存在
+        for i in self.student_list:
+            if modify_name == i.name:
+                i.name = input('姓名:')
+                i.gender = input('性别:')
+                i.tel = input('手机号:')
+                print(f'修改学员信息成功，姓名{i.name}, 性别{i.gender}, 手机号{i.tel}')
+                break
+        else:
+            print('查无此人')
 
     # 2.5 查询学员信息
     def search_student(self):
-        print('查询学员信息')
+        # 1 用户输入目标学员姓名
+        search_name = input('请输入需要查询的学员信息:')
+
+        # 2 遍历学员数据列表，如果用户输入的学员姓名存在则打印学员信息，否则提示该学员不存在
+        for i in self.student_list:
+            if search_name == i.name:
+                print(f'姓名{i.name}, 性别{i.gender}, 手机号{i.tel}')
+                break
+        else:
+            print('查无此人')
 
     # 2.6 显示所有学员信息
     def show_student(self):
-        print('显示所有学员信息')
+        # 1 打印表头
+        print('姓名\t性别\t手机号')
+
+        # 2 打印所有学员信息
+        for i in self.student_list:
+            print(f'{i.name}\t{i.gender}\t{i.tel}')
 
     # 2.7 保存学员信息
     def save_student(self):
-        print('保存学员信息')
+        # 1 打开文件
+        f = open('student.data', 'w')
+
+        # 2 文件写入数据
+        # 2.1 [学员对象]转换成[字典]
+        new_list = [i.__dict__ for i in self.student_list]
+
+        # 2.2 文件写入 字符串数据
+        f.write(str(new_list))
+
+        # 3 关闭文件
+        f.close()
 
     # 2.8 加载学员信息
     def load_student(self):
-        print('加载学员信息')
+        # 1 打开文件:尝试以r打开，如果有异常w
+        try:
+            f = open('student.data', 'r')
+        except:
+            f = open('student.data', 'w')
+        else:
+            # 2 读取数据:文件读取出的数据是字符串还原列表类型:[{}]转换[学员对象]
+            data = f.read() # 字符串
+            new_list = eval(data)
+            self.student_list = [Student(i['name'], i['gender'], i['tel']) for i in new_list]
+        finally:
+            # 3 关闭文件
+            f.close()
