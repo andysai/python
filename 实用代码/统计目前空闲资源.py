@@ -25,7 +25,7 @@ for i in data:
                     if CPU == '2*6C*2':
                         CPU = '24C'
                     elif CPU == '2*10C*2':
-                        CPU = '40C'
+                        CPU = 'DELL　Ｒ720　40C.txt'
                     elif CPU == '4*4C':
                         CPU = '16C'
                     elif CPU == '4*8C*2':
@@ -82,11 +82,11 @@ for list in lists:
     elif list[0] == 'DELL-R720' and list[1] == '24C' and list[2] == '128G':
         DELL_24_128.append(list[0])
     # 40CCPU ,内存有64G，128G，256G
-    elif list[0] == 'DELL-R720' and list[1] == '40C' and list[2] == '64G':
+    elif list[0] == 'DELL-R720' and list[1] == 'DELL　Ｒ720　40C.txt' and list[2] == '64G':
         DELL_40_64.append(list[0])
-    elif list[0] == 'DELL-R720' and list[1] == '40C' and list[2] == '64G':
+    elif list[0] == 'DELL-R720' and list[1] == 'DELL　Ｒ720　40C.txt' and list[2] == '64G':
         DELL_40_128.append(list[0])
-    elif list[0] == 'DELL-R720' and list[1] == '40C' and list[2] == '64G':
+    elif list[0] == 'DELL-R720' and list[1] == 'DELL　Ｒ720　40C.txt' and list[2] == '64G':
         DELL_40_256.append(list[0])
     elif list[0] == 'DELL-R910' and list[1] == '64C' and list[2] == '64G':
         DELL_64_64.append(list[0])
