@@ -18,4 +18,4 @@ for i in range(len(strs)):
      worksheet.write(0,i,strs[i])
 
 # 保存数据
-newwb.save("source_material/2019年某公司新资表.xls")
+newwb.save("../source_material/2019年某公司新资表.xls")
