@@ -20,10 +20,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-excle数据读取/02-写入excle数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/01-第三方库的安装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/02-第三方库安装问题.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-excle数据读取/01-复制工作簿.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-excle数据读取/01-复制工作簿.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-excle数据读取/source_material/2019年某公司员工薪资表.xls" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-excle数据读取/source_material/2019年某公司员工薪资表.xls" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/01-复制工作簿.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/07-复制工作簿.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/02-写入excle数据.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/08-写入excle数据.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -85,11 +86,11 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础\01-excle数据读取" />
+      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础" />
       <recent name="D:\study\python\实用代码\tk模块" />
       <recent name="D:\study\python\实用代码" />
       <recent name="D:\study\python\test\test_2" />
-      <recent name="E:\study\python\实用代码" />
-      <recent name="E:\study\python\test\a" />
     </key>
   </component>
   <component name="RunManager" selected="Python.02-写入excle数据">
@@ -349,13 +350,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00099" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1584877983041</created>
-      <option name="number" value="00099" />
-      <option name="presentableId" value="LOCAL-00099" />
-      <option name="project" value="LOCAL" />
-      <updated>1584877983042</updated>
     </task>
     <task id="LOCAL-00100" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1584976475077</created>
@@ -693,7 +687,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611302475681</updated>
     </task>
-    <option name="localTasksCounter" value="148" />
+    <task id="LOCAL-00148" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611307745745</created>
+      <option name="number" value="00148" />
+      <option name="presentableId" value="LOCAL-00148" />
+      <option name="project" value="LOCAL" />
+      <updated>1611307745745</updated>
+    </task>
+    <option name="localTasksCounter" value="149" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
