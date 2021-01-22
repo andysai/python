@@ -8,4 +8,6 @@ python的第三方库:是第三方公司提供的，需要下载安装(简单)
 
 写入excle数据的库
     库名:xlwt -- xlwt其实是exlce write的简写形式
+
+第三方库安装方法:pip install 库名
 """
