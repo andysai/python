@@ -20,9 +20,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/02-为XFstyle设置属性步骤.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/03-XFStyle设置Font属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/04-XFStyle设置Borders属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/05-XFStyle设置Alignment属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/06-XFStyle设置Pattern属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/07-合并单元格.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/05-获取excle表格具体值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/05-获取excle表格具体值.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle-格式控制/01-设置行高列宽.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/01-设置行高列宽.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -91,8 +95,8 @@
       <recent name="D:\study\python\test\test_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.05-获取excle表格具体值">
-    <configuration name="01-设置行高列宽" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07-合并单元格">
+    <configuration name="03-XFStyle设置Font属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -100,11 +104,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle-格式控制" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle-格式控制/01-设置行高列宽.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/03-XFStyle设置Font属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -113,7 +117,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-获取excle工作表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-XFStyle设置Borders属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -121,11 +125,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/04-获取excle工作表.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/04-XFStyle设置Borders属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -134,7 +138,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="05-获取excle表格具体值" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="05-XFStyle设置Alignment属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -142,11 +146,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/05-获取excle表格具体值.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/05-XFStyle设置Alignment属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -155,7 +159,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="06-写入excle数据" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-XFStyle设置Pattern属性" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -163,11 +167,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/06-写入excle数据.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/06-XFStyle设置Pattern属性.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -176,7 +180,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-复制工作簿" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-合并单元格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -184,11 +188,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/07-复制工作簿.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/07-合并单元格.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -199,11 +203,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.05-获取excle表格具体值" />
-        <item itemvalue="Python.01-设置行高列宽" />
-        <item itemvalue="Python.07-复制工作簿" />
-        <item itemvalue="Python.06-写入excle数据" />
-        <item itemvalue="Python.04-获取excle工作表" />
+        <item itemvalue="Python.07-合并单元格" />
+        <item itemvalue="Python.06-XFStyle设置Pattern属性" />
+        <item itemvalue="Python.05-XFStyle设置Alignment属性" />
+        <item itemvalue="Python.04-XFStyle设置Borders属性" />
+        <item itemvalue="Python.03-XFStyle设置Font属性" />
       </list>
     </recent_temporary>
   </component>
@@ -348,13 +352,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00103" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1585203693546</created>
-      <option name="number" value="00103" />
-      <option name="presentableId" value="LOCAL-00103" />
-      <option name="project" value="LOCAL" />
-      <updated>1585203693549</updated>
     </task>
     <task id="LOCAL-00104" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1585556492836</created>
@@ -692,7 +689,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611314605712</updated>
     </task>
-    <option name="localTasksCounter" value="152" />
+    <task id="LOCAL-00152" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611363227549</created>
+      <option name="number" value="00152" />
+      <option name="presentableId" value="LOCAL-00152" />
+      <option name="project" value="LOCAL" />
+      <updated>1611363227550</updated>
+    </task>
+    <option name="localTasksCounter" value="153" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
