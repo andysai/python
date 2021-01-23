@@ -20,13 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/02-为XFstyle设置属性步骤.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/03-XFStyle设置Font属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/04-XFStyle设置Borders属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/05-XFStyle设置Alignment属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/06-XFStyle设置Pattern属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/07-合并单元格.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/04-XFStyle设置Borders属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/04-XFStyle设置Borders属性.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/05-XFStyle设置Alignment属性.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/05-XFStyle设置Alignment属性.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -352,13 +348,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00104" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1585556492836</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1585556492837</updated>
     </task>
     <task id="LOCAL-00105" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1585573302400</created>
@@ -696,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611363227550</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611373819503</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1611373819503</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

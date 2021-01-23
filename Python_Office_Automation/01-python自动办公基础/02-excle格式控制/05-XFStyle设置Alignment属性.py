@@ -51,7 +51,7 @@ borders.right = 2  # 右边框
 borders.left_color = 24  # 边框左边颜色，参考素材库中的颜色值.jpg或者是使用列表xlwt.Style.colour_map
 borders.right_color = 24  # 边框右边颜色
 borders.top_color = 24  # 边框顶部颜色
-borders.buttom_color = 24  # 边框底部颜色
+borders.bottom_colour = 24  # 边框底部颜色
 
 # 将设置好的属性赋值给style的对应的属性
 style.borders= borders
@@ -60,7 +60,7 @@ style.borders= borders
 alignment = xlwt.Alignment()
 alignment.vert = xlwt.Alignment.VERT_CENTER
 alignment.horz = xlwt.Alignment.HORZ_CENTER
-
+alignment.vert = xlwt.Alignment.VERT_BOTTOM
 style.alignment = alignment
 new_sheet.write(1,1,'格式控制',style)
 

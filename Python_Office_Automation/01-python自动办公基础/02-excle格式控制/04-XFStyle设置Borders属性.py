@@ -6,10 +6,10 @@ Borders(边界)属性
         borders.left = 2 # 左边框
         borders.right = 2 # 右边框
         xlwt.Borders.THIN # 如果数字为1，可以使用xlwt.Borders.THIN来表示
-        borders.left_color = 33 # 边框左边颜色，参考素材库中的颜色值.jpg或者是使用列表xlwt.Style.colour_map
-        borders.right_color = 33 # 边框右边颜色
-        borders.top_color = 33 # 边框顶部颜色
-        borders.buttom_color = 33 # 边框底部颜色
+        borders.left_colour = 33 # 边框左边颜色，参考素材库中的颜色值.jpg或者是使用列表xlwt.Style.colour_map
+        borders.right_colour = 33 # 边框右边颜色
+        borders.top_colour = 33 # 边框顶部颜色
+        borders.buttom_colour = 33 # 边框底部颜色
 """
 # 导入读写模块
 import xlrd
@@ -49,10 +49,10 @@ borders.bottom = 2  # 下边框
 borders.left = 2  # 左边框
 borders.right = 2  # 右边框
 
-borders.left_color = 24  # 边框左边颜色，参考素材库中的颜色值.jpg或者是使用列表xlwt.Style.colour_map
-borders.right_color = 24  # 边框右边颜色
-borders.top_color = 24  # 边框顶部颜色
-borders.buttom_color = 24  # 边框底部颜色
+borders.left_colour = 24  # 边框左边颜色，参考素材库中的颜色值.jpg或者是使用列表xlwt.Style.colour_map
+borders.right_colour = 24  # 边框右边颜色
+borders.top_colour = 24  # 边框顶部颜色
+borders.buttom_colour = 24  # 边框底部颜色
 
 # 将设置好的属性赋值给style的对应的属性
 style.borders= borders
