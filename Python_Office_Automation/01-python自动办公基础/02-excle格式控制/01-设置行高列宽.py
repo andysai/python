@@ -22,7 +22,7 @@ new_workbook = copy(workbook)
 new_sheet = new_workbook.get_sheet(0)
 new_sheet.write(1,1,'格式控制')
 # 设置列宽
-new_sheet.col(0).width = 256 * 20
+new_sheet.col(0)
 # 设置行高
 new_sheet.row(0).height_mismatch = True
 new_sheet.row(0).height = 20 * 40

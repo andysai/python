@@ -20,8 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle-格式控制/01-设置行高列宽.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/05-获取excle表格具体值.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/01-excle数据读取/05-获取excle表格具体值.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle-格式控制/01-设置行高列宽.py" beforeDir="false" afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/02-excle格式控制/01-设置行高列宽.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,14 +84,14 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础\01-excle数据读取" />
       <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础" />
+      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础\01-excle数据读取" />
       <recent name="D:\study\python\实用代码\tk模块" />
       <recent name="D:\study\python\实用代码" />
       <recent name="D:\study\python\test\test_2" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.01-设置行高列宽">
+  <component name="RunManager" selected="Python.05-获取excle表格具体值">
     <configuration name="01-设置行高列宽" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -198,10 +199,10 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.05-获取excle表格具体值" />
         <item itemvalue="Python.01-设置行高列宽" />
         <item itemvalue="Python.07-复制工作簿" />
         <item itemvalue="Python.06-写入excle数据" />
-        <item itemvalue="Python.05-获取excle表格具体值" />
         <item itemvalue="Python.04-获取excle工作表" />
       </list>
     </recent_temporary>
@@ -347,13 +348,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00102" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1585128298854</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1585128298854</updated>
     </task>
     <task id="LOCAL-00103" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1585203693546</created>
@@ -691,7 +685,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611311636990</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611314605712</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1611314605712</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

@@ -28,7 +28,7 @@ sheet1 = workbook.sheet_by_index(0)
 r_num = sheet1.nrows
 c_num = sheet1.ncols
 print(r_num,c_num)
-# print(sheet1.row(0))
+print(sheet1.row(0))
 # print(sheet1.col(0))
 # print(f'一共有{r_num}行,{c_num}列')
 # 获取工作表中的所有数据
