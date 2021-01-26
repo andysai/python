@@ -39,4 +39,4 @@ def split_pdf(read_file, out_detail):
         fp_read_file.close()
 
 
-split_pdf('./20201227-国泰君安-日历效应专题系列（一）：“春季躁动”源自何方.pdf', 'config.txt')
+split_pdf('E:\云达信\随工管理\IDC机房随工记录表\hp-m5025@casc.ac.cn_20210126_171353.pdf', 'config.txt')
