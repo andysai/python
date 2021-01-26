@@ -20,16 +20,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/01-xlwings库介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/02-第三方库-心里wings的安装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/03-与原工作簿建立连接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/04-对原表数据进行修改.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/05-修改某一区域数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/06-注释问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/07-通过实例化修改原工作表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/08-原工作簿增加新表格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021-01-18_9_22_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/01-表格数据分析.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/02-字典数据整理.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/03-字典数据的写入.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/04-追加数据到表格.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/05-设置样式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/06-整理样式.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/07-模拟增加商品信息.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/自动化办公问题收集/01-郭昭宇_int_str_floar转换.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -83,7 +81,7 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
@@ -92,15 +90,15 @@
       <recent name="D:\python\风变编程\python爬虫-山顶班\fb_11" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\study\python\黑马程序员-python\python从0开始学编程\day19" />
+      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础" />
+      <recent name="E:\study\python\Python_Office_Automation\01-python自动办公基础\01-excle数据读取" />
       <recent name="D:\study\python\实用代码\tk模块" />
       <recent name="D:\study\python\实用代码" />
       <recent name="D:\study\python\test\test_2" />
-      <recent name="E:\study\python\实用代码" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.08-原工作簿增加新表格">
-    <configuration name="01-服务器统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Python.07-模拟增加商品信息">
+    <configuration name="01-郭昭宇_int_str_floar转换" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -108,11 +106,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/新机房设备统计" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/自动化办公问题收集" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/新机房设备统计/01-服务器统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/自动化办公问题收集/01-郭昭宇_int_str_floar转换.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -121,7 +119,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-服务器统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="02-字典数据整理" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -129,11 +127,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/新机房设备统计" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/新机房设备统计/01-服务器统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/02-字典数据整理.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -142,7 +140,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="03-与原工作簿建立连接" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-追加数据到表格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -150,11 +148,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/03-与原工作簿建立连接.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/04-追加数据到表格.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -163,7 +161,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="04-对原表数据进行修改" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="06-整理样式" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -171,11 +169,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/04-对原表数据进行修改.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/06-整理样式.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -184,7 +182,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="07-通过实例化修改原工作表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-模拟增加商品信息" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -192,53 +190,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/07-通过实例化修改原工作表.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="08-原工作簿增加新表格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/08-原工作簿增加新表格.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
-      <module name="python" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/球费统计" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/球费统计/test.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/01-python自动办公基础/03-excel自动建表实战/07-模拟增加商品信息.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -249,11 +205,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.08-原工作簿增加新表格" />
-        <item itemvalue="Python.07-通过实例化修改原工作表" />
-        <item itemvalue="Python.04-对原表数据进行修改" />
-        <item itemvalue="Python.03-与原工作簿建立连接" />
-        <item itemvalue="Python.test" />
+        <item itemvalue="Python.07-模拟增加商品信息" />
+        <item itemvalue="Python.06-整理样式" />
+        <item itemvalue="Python.04-追加数据到表格" />
+        <item itemvalue="Python.02-字典数据整理" />
+        <item itemvalue="Python.01-郭昭宇_int_str_floar转换" />
       </list>
     </recent_temporary>
   </component>
@@ -398,6 +354,48 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
+    </task>
+    <task id="LOCAL-00106" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1585573655739</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1585573655739</updated>
+    </task>
+    <task id="LOCAL-00107" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1587388310612</created>
+      <option name="number" value="00107" />
+      <option name="presentableId" value="LOCAL-00107" />
+      <option name="project" value="LOCAL" />
+      <updated>1587388310612</updated>
+    </task>
+    <task id="LOCAL-00108" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1587535404531</created>
+      <option name="number" value="00108" />
+      <option name="presentableId" value="LOCAL-00108" />
+      <option name="project" value="LOCAL" />
+      <updated>1587535404531</updated>
+    </task>
+    <task id="LOCAL-00109" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1587545114268</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1587545114268</updated>
+    </task>
+    <task id="LOCAL-00110" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1587718826656</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1587718826656</updated>
+    </task>
+    <task id="LOCAL-00111" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1587719243320</created>
+      <option name="number" value="00111" />
+      <option name="presentableId" value="LOCAL-00111" />
+      <option name="project" value="LOCAL" />
+      <updated>1587719243320</updated>
     </task>
     <task id="LOCAL-00112" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1587978340046</created>
@@ -617,132 +615,90 @@
       <updated>1610611003081</updated>
     </task>
     <task id="LOCAL-00143" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1610613990245</created>
+      <created>1610772330646</created>
       <option name="number" value="00143" />
       <option name="presentableId" value="LOCAL-00143" />
       <option name="project" value="LOCAL" />
-      <updated>1610613990245</updated>
+      <updated>1610772330646</updated>
     </task>
     <task id="LOCAL-00144" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1610932995557</created>
+      <created>1611150463152</created>
       <option name="number" value="00144" />
       <option name="presentableId" value="LOCAL-00144" />
       <option name="project" value="LOCAL" />
-      <updated>1610932995557</updated>
+      <updated>1611150463153</updated>
     </task>
     <task id="LOCAL-00145" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611024611629</created>
+      <created>1611245536782</created>
       <option name="number" value="00145" />
       <option name="presentableId" value="LOCAL-00145" />
       <option name="project" value="LOCAL" />
-      <updated>1611024611629</updated>
+      <updated>1611245536783</updated>
     </task>
     <task id="LOCAL-00146" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611044222519</created>
+      <created>1611245569930</created>
       <option name="number" value="00146" />
       <option name="presentableId" value="LOCAL-00146" />
       <option name="project" value="LOCAL" />
-      <updated>1611044222519</updated>
+      <updated>1611245569930</updated>
     </task>
     <task id="LOCAL-00147" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611101608657</created>
+      <created>1611302475681</created>
       <option name="number" value="00147" />
       <option name="presentableId" value="LOCAL-00147" />
       <option name="project" value="LOCAL" />
-      <updated>1611101608657</updated>
+      <updated>1611302475681</updated>
     </task>
     <task id="LOCAL-00148" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110200402</created>
+      <created>1611307745745</created>
       <option name="number" value="00148" />
       <option name="presentableId" value="LOCAL-00148" />
       <option name="project" value="LOCAL" />
-      <updated>1611110200402</updated>
+      <updated>1611307745745</updated>
     </task>
     <task id="LOCAL-00149" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110263894</created>
+      <created>1611308529433</created>
       <option name="number" value="00149" />
       <option name="presentableId" value="LOCAL-00149" />
       <option name="project" value="LOCAL" />
-      <updated>1611110263894</updated>
+      <updated>1611308529433</updated>
     </task>
     <task id="LOCAL-00150" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611110662358</created>
+      <created>1611311636990</created>
       <option name="number" value="00150" />
       <option name="presentableId" value="LOCAL-00150" />
       <option name="project" value="LOCAL" />
-      <updated>1611110662358</updated>
+      <updated>1611311636990</updated>
     </task>
     <task id="LOCAL-00151" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611187957835</created>
+      <created>1611314605712</created>
       <option name="number" value="00151" />
       <option name="presentableId" value="LOCAL-00151" />
       <option name="project" value="LOCAL" />
-      <updated>1611187957835</updated>
+      <updated>1611314605712</updated>
     </task>
     <task id="LOCAL-00152" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611188291678</created>
+      <created>1611363227549</created>
       <option name="number" value="00152" />
       <option name="presentableId" value="LOCAL-00152" />
       <option name="project" value="LOCAL" />
-      <updated>1611188291678</updated>
+      <updated>1611363227550</updated>
     </task>
     <task id="LOCAL-00153" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611195564842</created>
+      <created>1611373819503</created>
       <option name="number" value="00153" />
       <option name="presentableId" value="LOCAL-00153" />
       <option name="project" value="LOCAL" />
-      <updated>1611195564842</updated>
+      <updated>1611373819503</updated>
     </task>
     <task id="LOCAL-00154" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611199151006</created>
+      <created>1611419670054</created>
       <option name="number" value="00154" />
       <option name="presentableId" value="LOCAL-00154" />
       <option name="project" value="LOCAL" />
-      <updated>1611199151006</updated>
+      <updated>1611419670054</updated>
     </task>
-    <task id="LOCAL-00155" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611216218517</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1611216218518</updated>
-    </task>
-    <task id="LOCAL-00156" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611216320619</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1611216320619</updated>
-    </task>
-    <task id="LOCAL-00157" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611220135875</created>
-      <option name="number" value="00157" />
-      <option name="presentableId" value="LOCAL-00157" />
-      <option name="project" value="LOCAL" />
-      <updated>1611220135875</updated>
-    </task>
-    <task id="LOCAL-00158" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611220140632</created>
-      <option name="number" value="00158" />
-      <option name="presentableId" value="LOCAL-00158" />
-      <option name="project" value="LOCAL" />
-      <updated>1611220140632</updated>
-    </task>
-    <task id="LOCAL-00159" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611221809916</created>
-      <option name="number" value="00159" />
-      <option name="presentableId" value="LOCAL-00159" />
-      <option name="project" value="LOCAL" />
-      <updated>1611221809917</updated>
-    </task>
-    <task id="LOCAL-00160" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1611557813783</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1611557813783</updated>
-    </task>
-    <option name="localTasksCounter" value="161" />
+    <option name="localTasksCounter" value="155" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
