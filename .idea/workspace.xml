@@ -20,13 +20,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/实用代码/球费统计/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实用代码/球费统计/member.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实用代码/球费统计/system-function.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/实用代码/球费统计/test.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-20_8_12___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021-01-20_8_12___Default_Changelist_.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-21_23_04___Default_Changelist_.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/shelf/_2021-01-21_23_04___Default_Changelist_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/01-xlwings库介绍.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/02-第三方库-心里wings的安装.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/03-与原工作簿建立连接.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/04-对原表数据进行修改.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/05-修改某一区域数据.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/06-注释问题.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/07-通过实例化修改原工作表.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/08-原工作簿增加新表格.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021-01-18_9_22_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -96,7 +99,7 @@
       <recent name="E:\study\python\实用代码" />
     </key>
   </component>
-  <component name="RunManager" selected="Python.test">
+  <component name="RunManager" selected="Python.08-原工作簿增加新表格">
     <configuration name="01-服务器统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -139,7 +142,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="01-服务器统计" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="03-与原工作簿建立连接" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -147,11 +150,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/实用代码/新机房设备统计" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/实用代码/新机房设备统计/01-服务器统计.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/03-与原工作簿建立连接.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -160,7 +163,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Row" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="04-对原表数据进行修改" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -168,11 +171,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../Program Files/python/Python37/Lib/site-packages/xlwt" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../Program Files/python/Python37/Lib/site-packages/xlwt/Row.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/04-对原表数据进行修改.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -181,7 +184,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="hello" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="07-通过实例化修改原工作表" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -189,11 +192,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/随堂素材/阶段1：【小白】python零基础入门/第01章：一起走进python3（windows用户从这里开始）/源码" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/随堂素材/阶段1：【小白】python零基础入门/第01章：一起走进python3（windows用户从这里开始）/源码/hello.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/07-通过实例化修改原工作表.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -202,7 +205,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+    <configuration name="08-原工作簿增加新表格" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -210,11 +213,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/StudentManagerSystem" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/黑马程序员-python/python从0开始学编程/day19/StudentManagerSystem/main.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/08-原工作簿增加新表格.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -246,11 +249,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.08-原工作簿增加新表格" />
+        <item itemvalue="Python.07-通过实例化修改原工作表" />
+        <item itemvalue="Python.04-对原表数据进行修改" />
+        <item itemvalue="Python.03-与原工作簿建立连接" />
         <item itemvalue="Python.test" />
-        <item itemvalue="Python.Row" />
-        <item itemvalue="Python.01-服务器统计" />
-        <item itemvalue="Python.hello" />
-        <item itemvalue="Python.main" />
       </list>
     </recent_temporary>
   </component>
@@ -395,13 +398,6 @@
       <workItem from="1592356829053" duration="2242000" />
       <workItem from="1592449024743" duration="30000" />
       <workItem from="1592557307731" duration="51000" />
-    </task>
-    <task id="LOCAL-00111" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <created>1587719243320</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1587719243320</updated>
     </task>
     <task id="LOCAL-00112" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
       <created>1587978340046</created>
@@ -739,7 +735,14 @@
       <option name="project" value="LOCAL" />
       <updated>1611221809917</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
+      <created>1611557813783</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1611557813783</updated>
+    </task>
+    <option name="localTasksCounter" value="161" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
