@@ -19,19 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml">
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/01-xlwings库介绍.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/02-第三方库-心里wings的安装.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/03-与原工作簿建立连接.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/04-对原表数据进行修改.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/05-修改某一区域数据.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/06-注释问题.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/07-通过实例化修改原工作表.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Python_Office_Automation/02-进阶提升让Excel飞起来/01-xlwings库让excel飞起来/08-原工作簿增加新表格.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/_2021-01-18_9_22___Default_Changelist_.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/在进行更新之前于_2021-01-18_9_22_取消提交了变更_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="df92b2a0-5d17-4813-915b-da6bef31e1f9" name="Default Changelist" comment="Merge branch 'master' of https://github.com/andysai/python&#10;&#10;# Conflicts:&#10;#&#9;.idea/workspace.xml" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +35,11 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="sai &lt;344319484@qq.com&gt;" />
+      </list>
+    </option>
     <option name="PUSH_AUTO_UPDATE" value="true" />
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
