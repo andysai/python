@@ -10,8 +10,8 @@ Borders边界设置
         11内部垂直边框
         12内部水平边框
 
-    线的风格:lineStyle
-    线的粗细:weight
+    线的风格:LineStyle
+    线的粗细:Weight
     语法:
         # fg方格或者方格范围，左边有边框，边框风格为1
         fg.api.Borders(参数).LineStyle = 1
