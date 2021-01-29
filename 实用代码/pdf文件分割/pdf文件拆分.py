@@ -39,4 +39,4 @@ def split_pdf(read_file, out_detail):
         fp_read_file.close()
 
 
-split_pdf('E:\云达信\随工管理\IDC机房随工记录表\hp-m5025@casc.ac.cn_20210126_171353.pdf', 'config.txt')
+split_pdf('E:\hp-m5025@casc.ac.cn_20210129_160355.pdf', 'config.txt')

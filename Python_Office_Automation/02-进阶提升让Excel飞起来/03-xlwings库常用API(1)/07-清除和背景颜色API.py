@@ -16,9 +16,6 @@ range常用API
         fg.color
     给获取的颜色赋值:元组值
         fg.color = (12, 34, 125)
-
-
-
 """
 import xlwings as xw
 app = xw.App(visible=True, add_book=False)
