@@ -68,7 +68,7 @@
         取值范围:fg.rows[下标]
         长度属性:len(fg.rows)
         row_width # 只能返回单行的行高,不能返回多行,多行为空
-        fg.row_width = 50
+        fg.row_height = 50
     5.8 row行所表示的意义
         # 自动调整行高列宽
         fg.autofit
@@ -77,5 +77,4 @@
     2 help(类名或者对象名)
     第三方的源码查看方法
     1 库名__file__
-
 """
